@@ -22,7 +22,7 @@ author_profile: true
 
 * **Chakraborty, S.** and Khare, K. (2019).  Consistent estimation of the spectrum of trace class data augmentation algorithms. *Bernoulli.* 25(4B), 2019, 3832–3863. [arXiv.](https://arxiv.org/abs/1711.00572) [Link](https://projecteuclid.org/euclid.bj/1569398786).
 
-* **Chakraborty, S.**, Arora A., Begg, C. B. and Shen, R. (2019). Estimating Somatic Variant Richness in the Cancer Genome: Mining the Hidden Iceberg of Information. *To appear in Nature Communications*.
+* **Chakraborty, S.**, Arora A., Begg, C. B. and Shen, R. (2019). Using SomaticVariant Richness to Mine Signals from Rare Variants in the Cancer Genome. *To appear in Nature Communications*.
 
 
 ### Computational Research
