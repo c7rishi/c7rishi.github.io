@@ -27,7 +27,7 @@ author_profile: true
 
 ### Computational Research
 
-* * **Chakraborty, S.** and Wong, S. W. BAMBI: An R package for Fitting Bivariate Angular Mixture Models. *In revision*. [arXiv.](https://arxiv.org/abs/1708.07804)
+* **Chakraborty, S.** and Wong, S. W. BAMBI: An R package for Fitting Bivariate Angular Mixture Models. *In revision*. [arXiv.](https://arxiv.org/abs/1708.07804)
 
 
 ###  Collaborative Applied Research
