@@ -17,7 +17,7 @@ author_profile: true
 ### Methodological Research
 
 * **Chakraborty, S.** and Khare, K. (2019).  Consistent estimation of the spectrum of trace class data augmentation algorithms. *Bernoulli.* 25(4B), 2019, 3832–3863. [arXiv.](https://arxiv.org/abs/1711.00572) [Link](https://projecteuclid.org/euclid.bj/1569398786).
-* **Chakraborty, S.**, Arora A., Begg, C. B. and Shen, R. (2019). Using Somatic Variant Richness to Mine Signals from Rare Variants in the Cancer Genome. *To appear in Nature Communications*.
+* **Chakraborty, S.**, Arora A., Begg, C. B. and Shen, R. (2019). Using Somatic Variant Richness to Mine Signals from Rare Variants in the Cancer Genome. *Nat Commun 10*, 5506 (2019). [Link](https://www.nature.com/articles/s41467-019-13402-z).
 * **Chakraborty, S.** and Khare, K. (2017). Convergence properties of Gibbs samplers for Bayesian probit regression with proper priors, *Electronic Journal of Statistics* 11, 177-210. [Link](https://projecteuclid.org/euclid.ejs/1485939612)
 * Maji, A., **Chakraborty, S.**, and Basu, A., (2017). Statistical Inference based on the Logarithmic Power Divergence. *Society For Application Of Statistics And Allied Sciences*, 2, 39–51. [Link](http://www.sasaa.org/complete_journal/vol2__6.pdf)
 
