@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Please find latest CV [here](CV2019.pdf).
+Please find my latest CV [here](CV2019.pdf).
