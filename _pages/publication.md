@@ -24,16 +24,15 @@ author_profile: true
 
 ### Computational Research
 
-* **Chakraborty, S.** and Wong, S. W. (2019). BAMBI: An R package for Fitting Bivariate Angular Mixture Models. *To appear in the Journal of Statistical Software*. [arXiv.](https://arxiv.org/abs/1708.07804)
+* **Chakraborty, S.** and Wong, S. W. (2020). BAMBI: An R package for Fitting Bivariate Angular Mixture Models. *To appear in the Journal of Statistical Software*. [arXiv.](https://arxiv.org/abs/1708.07804)
 
 
 ###  Collaborative Applied Research
 
+* Cassidy, D. J.,  **Chakraborty, S.**, Panda, N.,  McKinley, S. K., Mansur, A., Hamdi I., Mullen,  J., Petrusa, E., Phitayakorn, R., and Gee, D. (2020). The Surgical Knowledge "Growth Curve": Predicting ABSITE Scores and Identifying "At-Risk" Residents. *To appear in  Journal of Surgical Education.* 
+* Barnard, A. M., Wilcox, R., Forbes, S.C., Daniels, M. J., **Chakraborty, S.**, Lott, D., J., Senesac, C. R., Arora, H., Sweeny, L., Walter, G. H., and Vandenborne, K. H. E.  (2020). MR biomarkers predict clinical function in Duchenne muscular dystrophy. *Neurology*, *94*(9), e897-e909. [Link.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7238941/)
+* Rooney, W. D., Berlow, Y. A., Triplett, W. T., Forbes, S. C., Willcocks, R. J., Wang, D, Arora, H, Senesac, C, Lott, D. J., Finkel, R.,  Russman, B. S., Finanger, E. L., **Chakraborty, S.**, O’Brien, E, Moloney, B, Barnard, A, Sweeney, H. L., Daniels, M. J., Walter, G. A., and Vandenborne, K.  (2020). Modeling disease trajectory in Duchenne muscular dystrophy. *Neurology*, *94*(15), e1622-e1633. [Link.](https://pubmed.ncbi.nlm.nih.gov/32184340/)
 * Vaziri, S., Awan, O., Porche, K., Scott, K., Sacks, P., Dru, A. B., **Chakraborty, S.**, Khare, K., Hoh, B., and Rahman, M. (2019). Reimbursement Patterns for Neurosurgery: Analysis of the NERVES Survey Results from 2011-2016.  *Clinical Neurology and Neurosurgery*, p.105406. [Link](https://www.ncbi.nlm.nih.gov/pubmed/31302381).
-
-- Barnard, A. M., Wilcox, R., Forbes, S.C., Daniels, M. J., **Chakraborty, S.**, Lott, D., J., Senesac, C. R., Arora, H., Sweeny, L., Walter, G. H., and Vandenborne, K. H. E. (2019). MR biomarkers and predictive relationships to clinical function over 48 months in Duchenne muscular dystrophy.  *To appear in  Neurology*.
-
-- Rooney, W. D., Berlow, Y. A., Triplett, W. T., Forbes, S. C., Willcocks, R. J., Wang, D, Arora, H, Senesac, C, Lott, D. J., Finkel, R.,  Russman, B. S., Finanger, E. L., **Chakraborty, S.**, O’Brien, E, Moloney, B, Barnard, A, Sweeney, H. L., Daniels, M. J., Walter, G. A., Vandenborne, K. (2019). Modeling Disease Trajectory in Duchenne Muscular Dystrophy. *To appear in Neurology*.
 
 * Chatterjee, N., Nair, P.K.R., **Chakraborty, S.**, and Nair, V.D. (2018). Changes in soil carbon stocks across the Forest-Agroforest-Agriculture/Pasture continuum in various agroecological regions: A meta-analysis. *Agriculture, Ecosystems and Environment*, 266, 55-67. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0167880918302913).
 
@@ -44,22 +43,24 @@ author_profile: true
 
 ## Submitted or in-revision
 
-* **Chakraborty, S.** and Su, Z. (2019+). A comprehensive Bayesian framework for envelope models. *Under review*.
+* **Chakraborty, S**., Martin, A., Begg, C. B., Shen, R. (2020+) Mining the Hidden Genome to Map Tumor Site of Origin. *Under review.*  
 
-* **Chakraborty, S.** and Wong, S. W. (2019+).  Bayesian analysis of coupled cellular and nuclear trajectories for cell migration. *Under review*.
+* **Chakraborty, S.** and Su, Z. (2020+). A comprehensive Bayesian framework for envelope models. *In revision*.
 
-* **Chakraborty, S.**, Begg, C. B., and Shen, R. (2019+). Using the “Hidden” Genome to Improve
-  Classification of Cancer Types. *Submitted.*
+* **Chakraborty, S.** and Wong, S. W. (2020+).  Bayesian analysis of coupled cellular and nuclear trajectories for cell migration. *In revision*.
+
+* **Chakraborty, S.**, Begg, C. B., and Shen, R. (2020+). Using the “Hidden” Genome to Improve
+  Classification of Cancer Types. *Minor revision submitted.* [arXiv.](https://arxiv.org/abs/2005.10779)
   
-* Lee, M., **Chakraborty, S.**, and Su, Z. (2019+). A Bayesian approach to envelope quantile regression. *Submitted.* 
+* Lee, M., **Chakraborty, S.**, and Su, Z. (2020+). A Bayesian approach to envelope quantile regression. *In revision.* 
 
-* **Chakraborty, S.**, Bhattacharya, B., and Khare, K. (2019+). Estimating accuracy of MCMC standard error: a central limit theorem for batch means estimator. *Submitted..*
+* **Chakraborty, S.**, Bhattacharya, B., and Khare, K. (2020+). Estimating accuracy of MCMC standard error: a central limit theorem for batch means estimator. *Under review.* [arXiv.](https://arxiv.org/abs/1911.00915)
 
-* **Chakraborty, S.** and Wong, S. W. On the circular correlation coefficients for bivariate von Mises distributions on a torus. [arXiv.](https://arxiv.org/abs/1804.08553)
+* **Chakraborty, S.** and Wong, S. W. (2020+) On the circular correlation coefficients for bivariate von Mises distributions on a torus. *Under review.* [arXiv.](https://arxiv.org/abs/1804.08553)
 
-* Cassidy, D. J.,  McKinley, S. K., **Chakraborty, S.**,  Mansur A., Hamdi I.,  Mullen, J, Petrusa, E., Phitayakorn R., Gee, D. (2019+). Feasibility and Benefits of a Peer-Led ABSITE Review Course. *Submitted.*
+* Cassidy, D. J.,  McKinley, S. K., **Chakraborty, S.**,  Mansur A., Hamdi I.,  Mullen, J, Petrusa, E., Phitayakorn R., Gee, D. (2020+). Feasibility and Benefits of a Peer-Led ABSITE Review Course. *Under review.*
 
-
+  
 
 ## Software
 * [BAMBI](https://cran.r-project.org/web/packages/BAMBI/index.html): An R package for Bivariate Angular Mixture Models. *Downloaded over 17,000 times.*
