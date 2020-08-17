@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Saptarshi Chakraborty"
   avatar           : "Saptarshi_Chakraborty_profilepic.jpg"
-  bio              : "Research Fellow at Memorial Sloan Kettering Cancer Center, New York"
-  location         : "New York, NY 10017"
-  employer         :
+  bio              : "Assistant Professor of Biostatistics"
+  location         : "Buffalo, New York"
+  employer         : "State University of New York at Buffalo"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=13KohvEAAAAJ&hl=en"
   email            :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@c7rishi"
+  twitter          : "@SaptarshiCh"
   vine             :
   weibo            :
   xing             :
