@@ -16,6 +16,8 @@ author_profile: true
 
 ### Methodological Research
 
+* **Chakraborty, S.**, Begg, C. B., and Shen, R. (2020). Using the “Hidden” Genome to Improve
+  Classification of Cancer Types. *To appear in Biometrics.* [arXiv.](https://arxiv.org/abs/2005.10779)
 * **Chakraborty, S.** and Khare, K. (2019).  Consistent estimation of the spectrum of trace class data augmentation algorithms. *Bernoulli.* 25(4B), 2019, 3832–3863. [arXiv.](https://arxiv.org/abs/1711.00572) [Link](https://projecteuclid.org/euclid.bj/1569398786).
 * **Chakraborty, S.**, Arora A., Begg, C. B. and Shen, R. (2019). Using Somatic Variant Richness to Mine Signals from Rare Variants in the Cancer Genome. *Nat Commun 10*, 5506 (2019). [Link](https://www.nature.com/articles/s41467-019-13402-z).
 * **Chakraborty, S.** and Khare, K. (2017). Convergence properties of Gibbs samplers for Bayesian probit regression with proper priors, *Electronic Journal of Statistics* 11, 177-210. [Link](https://projecteuclid.org/euclid.ejs/1485939612)
@@ -49,9 +51,6 @@ author_profile: true
 
 * **Chakraborty, S.** and Wong, S. W. (2020+).  Bayesian analysis of coupled cellular and nuclear trajectories for cell migration. *In revision*.
 
-* **Chakraborty, S.**, Begg, C. B., and Shen, R. (2020+). Using the “Hidden” Genome to Improve
-  Classification of Cancer Types. *Minor revision submitted.* [arXiv.](https://arxiv.org/abs/2005.10779)
-  
 * Lee, M., **Chakraborty, S.**, and Su, Z. (2020+). A Bayesian approach to envelope quantile regression. *In revision.* 
 
 * **Chakraborty, S.**, Bhattacharya, B., and Khare, K. (2020+). Estimating accuracy of MCMC standard error: a central limit theorem for batch means estimator. *Under review.* [arXiv.](https://arxiv.org/abs/1911.00915)
