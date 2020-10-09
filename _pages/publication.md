@@ -17,7 +17,7 @@ author_profile: true
 ### Methodological Research
 
 * **Chakraborty, S.**, Begg, C. B., and Shen, R. (2020). Using the “Hidden” Genome to Improve
-  Classification of Cancer Types. *Biometrics. 2020;1–11.* [arXiv.](https://arxiv.org/abs/2005.10779)
+  Classification of Cancer Types. *Biometrics. 2020;1–11.* [Link.](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13367) [arXiv.](https://arxiv.org/abs/2005.10779)
 * **Chakraborty, S.** and Khare, K. (2019).  Consistent estimation of the spectrum of trace class data augmentation algorithms. *Bernoulli.* 25(4B), 2019, 3832–3863. [arXiv.](https://arxiv.org/abs/1711.00572) [Link](https://projecteuclid.org/euclid.bj/1569398786).
 * **Chakraborty, S.**, Arora A., Begg, C. B. and Shen, R. (2019). Using Somatic Variant Richness to Mine Signals from Rare Variants in the Cancer Genome. *Nat Commun 10*, 5506 (2019). [Link](https://www.nature.com/articles/s41467-019-13402-z).
 * **Chakraborty, S.** and Khare, K. (2017). Convergence properties of Gibbs samplers for Bayesian probit regression with proper priors, *Electronic Journal of Statistics* 11, 177-210. [Link](https://projecteuclid.org/euclid.ejs/1485939612)
@@ -31,7 +31,7 @@ author_profile: true
 
 ###  Collaborative Applied Research
 
-* Cassidy, D. J.,  **Chakraborty, S.**, Panda, N.,  McKinley, S. K., Mansur, A., Hamdi I., Mullen,  J., Petrusa, E., Phitayakorn, R., and Gee, D. (2020). The Surgical Knowledge "Growth Curve": Predicting ABSITE Scores and Identifying "At-Risk" Residents. *To appear in  Journal of Surgical Education.* 
+* Cassidy, D. J.,  **Chakraborty, S.**, Panda, N.,  McKinley, S. K., Mansur, A., Hamdi I., Mullen,  J., Petrusa, E., Phitayakorn, R., and Gee, D. (2020). The Surgical Knowledge "Growth Curve": Predicting ABSITE Scores and Identifying "At-Risk" Residents. *Journal of Surgical Education.* [Link.](https://www.sciencedirect.com/science/article/abs/pii/S1931720420302312)
 * Barnard, A. M., Wilcox, R., Forbes, S.C., Daniels, M. J., **Chakraborty, S.**, Lott, D., J., Senesac, C. R., Arora, H., Sweeny, L., Walter, G. H., and Vandenborne, K. H. E.  (2020). MR biomarkers predict clinical function in Duchenne muscular dystrophy. *Neurology*, *94*(9), e897-e909. [Link.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7238941/)
 * Rooney, W. D., Berlow, Y. A., Triplett, W. T., Forbes, S. C., Willcocks, R. J., Wang, D, Arora, H, Senesac, C, Lott, D. J., Finkel, R.,  Russman, B. S., Finanger, E. L., **Chakraborty, S.**, O’Brien, E, Moloney, B, Barnard, A, Sweeney, H. L., Daniels, M. J., Walter, G. A., and Vandenborne, K.  (2020). Modeling disease trajectory in Duchenne muscular dystrophy. *Neurology*, *94*(15), e1622-e1633. [Link.](https://pubmed.ncbi.nlm.nih.gov/32184340/)
 * Vaziri, S., Awan, O., Porche, K., Scott, K., Sacks, P., Dru, A. B., **Chakraborty, S.**, Khare, K., Hoh, B., and Rahman, M. (2019). Reimbursement Patterns for Neurosurgery: Analysis of the NERVES Survey Results from 2011-2016.  *Clinical Neurology and Neurosurgery*, p.105406. [Link](https://www.ncbi.nlm.nih.gov/pubmed/31302381).
@@ -45,7 +45,7 @@ author_profile: true
 
 ## Submitted or in-revision
 
-* **Chakraborty, S**., Martin, A., Begg, C. B., Shen, R. (2020+) Mining the Hidden Genome to Map Tumor Site of Origin. *Under review.*  
+* **Chakraborty, S**., Martin, A., Begg, C. B., Shen, R. (2020+) Mining the Hidden Genome to Map Tumor Site of Origin. *In revision.*  
 
 * **Chakraborty, S.** and Su, Z. (2020+). A comprehensive Bayesian framework for envelope models. *In revision*.
 
@@ -57,9 +57,10 @@ author_profile: true
 
 * **Chakraborty, S.** and Wong, S. W. (2020+) On the circular correlation coefficients for bivariate von Mises distributions on a torus. *Under review.* [arXiv.](https://arxiv.org/abs/1804.08553)
 
-* Cassidy, D. J.,  McKinley, S. K., **Chakraborty, S.**,  Mansur A., Hamdi I.,  Mullen, J, Petrusa, E., Phitayakorn R., Gee, D. (2020+). Feasibility and Benefits of a Peer-Led ABSITE Review Course. *Under review.*
+  
 
   
+
 
 ## Software
 * [BAMBI](https://cran.r-project.org/web/packages/BAMBI/index.html): An R package for Bivariate Angular Mixture Models. *Downloaded over 17,000 times.*
