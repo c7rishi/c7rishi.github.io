@@ -15,9 +15,8 @@ author_profile: true
 ## Refereed Publications
 
 ### Methodological Research
-
-* Lee, M., **Chakraborty, S.**, and Su, Z. (2021). A Bayesian approach to envelope quantile regression. *To appear in Statistica Sinica.* 
-
+*  **Chakraborty, S**., Martin, A., Guan, Z., Begg, C. B., Shen, R. (2021). Mining the Hidden Genome to Map Tumor Site of Origin. *To appear in Nature Communications.* 
+* Lee, M., **Chakraborty, S.**, and Su, Z. (2021). A Bayesian approach to envelope quantile regression. *To appear in Statistica Sinica.* [Link.]()
 *  **Chakraborty, S.**, Begg, C. B., and Shen, R. (2020). Using the “Hidden” Genome to Improve
   Classification of Cancer Types. *Biometrics. 2020;1–11.* [Link.](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13367) [arXiv.](https://arxiv.org/abs/2005.10779)
 * **Chakraborty, S.** and Khare, K. (2019).  Consistent estimation of the spectrum of trace class data augmentation algorithms. *Bernoulli.* 25(4B), 2019, 3832–3863. [arXiv.](https://arxiv.org/abs/1711.00572) [Link](https://projecteuclid.org/euclid.bj/1569398786).
@@ -46,8 +45,6 @@ author_profile: true
 
 
 ## Submitted or in-revision
-
-* **Chakraborty, S**., Martin, A., Begg, C. B., Shen, R. (2020+) Mining the Hidden Genome to Map Tumor Site of Origin. *In revision.*  
 
 * **Chakraborty, S.** and Su, Z. (2020+). A comprehensive Bayesian framework for envelope models. *In revision*.
 
