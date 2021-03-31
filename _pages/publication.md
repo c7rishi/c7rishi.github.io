@@ -15,6 +15,7 @@ author_profile: true
 ## Refereed Publications
 
 ### Methodological Research
+* **Chakraborty, S.** Tian, L, Tseng, Y, and Wong, S. W. (2021).  Bayesian analysis of coupled cellular and nuclear trajectories for cell migration. *To appear in Biometrics*.
 *  **Chakraborty, S**., Martin, A., Guan, Z., Begg, C. B., and Shen, R. (2021). Mining the Hidden Genome to Map Tumor Site of Origin. *To appear in Nature Communications.* 
 * Lee, M., **Chakraborty, S.**, and Su, Z. (2021). A Bayesian approach to envelope quantile regression. *To appear in Statistica Sinica.* [Link.](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2020-0109_na.pdf)
 *  **Chakraborty, S.**, Begg, C. B., and Shen, R. (2020). Using the “Hidden” Genome to Improve
@@ -48,10 +49,8 @@ author_profile: true
 
 * **Chakraborty, S.** and Su, Z. (2020+). A comprehensive Bayesian framework for envelope models. *In revision*.
 
-* **Chakraborty, S.** and Wong, S. W. (2020+).  Bayesian analysis of coupled cellular and nuclear trajectories for cell migration. *In revision*.
-
-
 * **Chakraborty, S.**, Bhattacharya, B., and Khare, K. (2020+). Estimating accuracy of MCMC standard error: a central limit theorem for batch means estimator. *Under review.* [arXiv.](https://arxiv.org/abs/1911.00915)
+
 
 * **Chakraborty, S.** and Wong, S. W. (2020+) On the circular correlation coefficients for bivariate von Mises distributions on a torus. *Under review.* [arXiv.](https://arxiv.org/abs/1804.08553)
 
@@ -65,6 +64,7 @@ author_profile: true
 
 * [variantprobs](https://github.com/c7rishi/variantprobs): An R package for estimating probabilities and expected numbers of mutations in the tumor genome.
 
+* [hidgenclassifier](https://github.com/c7rishi/hidgenclassifier): An R package implementing Key functions for Bayesian hidden genome classifiers.  Includes functions for preprocessing genommic data, fitting and predicting from hidden genome classifiers.
   
 
 
