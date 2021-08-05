@@ -15,7 +15,7 @@ author_profile: true
 ## Refereed Publications
 
 ### Methodological Research
-*  **Chakraborty, S**., Martin, A., Guan, Z., Begg, C. B., and Shen, R. (2021). Mining the Hidden Genome to Map Tumor Site of Origin. *To appear in Nature Communications.* 
+*  **Chakraborty, S**., Martin, A., Guan, Z., Begg, C. B., and Shen, R. (2021). Mining mutation contexts across the cancer genome to map tumor site of origin. *Nat Commun* **12,** 3051 (2021). [Link](https://www.nature.com/articles/s41467-021-23094-z).
 * **Chakraborty, S.** Tian, L, Tseng, Y, and Wong, S. W. (2021).  Bayesian analysis of coupled cellular and nuclear trajectories for cell migration. _Biometrics_ 1-12. [Link.](https://onlinelibrary.wiley.com/doi/10.1111/biom.13468)
 * Lee, M., **Chakraborty, S.**, and Su, Z. (2021). A Bayesian approach to envelope quantile regression. *To appear in Statistica Sinica.* [Link.](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2020-0109_na.pdf)
 *  **Chakraborty, S.**, Begg, C. B., and Shen, R. (2020). Using the “Hidden” Genome to Improve
@@ -33,9 +33,14 @@ author_profile: true
 
 ###  Collaborative Applied Research
 
+* **Chakraborty, S.**, Ecker, B. L., Seier, K., Aveson, V. G., Balachandran, V. P., Drebin, J. A., D'Angelica, M. I., Kingham, T. P., Sigel, C. S., Soares, K. C., Vakiani, E., Wei, A. C., Chandwani, R., Gonen, M., Shen, R., Jarnagin, W. R. Genome-derived Classification Signature for Ampullary Adenocarcinoma to Improve Clinical Cancer Care. *To appear in Clinical Cancer Research*.
+
 * Cassidy, D. J.,  **Chakraborty, S.**, Panda, N.,  McKinley, S. K., Mansur, A., Hamdi I., Mullen,  J., Petrusa, E., Phitayakorn, R., and Gee, D. (2020). The Surgical Knowledge "Growth Curve": Predicting ABSITE Scores and Identifying "At-Risk" Residents. *Journal of Surgical Education.* [Link.](https://www.sciencedirect.com/science/article/abs/pii/S1931720420302312)
+
 * Barnard, A. M., Wilcox, R., Forbes, S.C., Daniels, M. J., **Chakraborty, S.**, Lott, D., J., Senesac, C. R., Arora, H., Sweeny, L., Walter, G. H., and Vandenborne, K. H. E.  (2020). MR biomarkers predict clinical function in Duchenne muscular dystrophy. *Neurology*, *94*(9), e897-e909. [Link.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7238941/)
+
 * Rooney, W. D., Berlow, Y. A., Triplett, W. T., Forbes, S. C., Willcocks, R. J., Wang, D, Arora, H, Senesac, C, Lott, D. J., Finkel, R.,  Russman, B. S., Finanger, E. L., **Chakraborty, S.**, O’Brien, E, Moloney, B, Barnard, A, Sweeney, H. L., Daniels, M. J., Walter, G. A., and Vandenborne, K.  (2020). Modeling disease trajectory in Duchenne muscular dystrophy. *Neurology*, *94*(15), e1622-e1633. [Link.](https://pubmed.ncbi.nlm.nih.gov/32184340/)
+
 * Vaziri, S., Awan, O., Porche, K., Scott, K., Sacks, P., Dru, A. B., **Chakraborty, S.**, Khare, K., Hoh, B., and Rahman, M. (2019). Reimbursement Patterns for Neurosurgery: Analysis of the NERVES Survey Results from 2011-2016.  *Clinical Neurology and Neurosurgery*, p.105406. [Link](https://www.ncbi.nlm.nih.gov/pubmed/31302381).
 
 * Chatterjee, N., Nair, P.K.R., **Chakraborty, S.**, and Nair, V.D. (2018). Changes in soil carbon stocks across the Forest-Agroforest-Agriculture/Pasture continuum in various agroecological regions: A meta-analysis. *Agriculture, Ecosystems and Environment*, 266, 55-67. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0167880918302913).
@@ -66,5 +71,4 @@ author_profile: true
 
 * [hidgenclassifier](https://github.com/c7rishi/hidgenclassifier): An R package implementing Key functions for Bayesian hidden genome classifiers.  Includes functions for preprocessing genommic data, fitting and predicting from hidden genome classifiers.
   
-
 
