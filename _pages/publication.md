@@ -15,11 +15,10 @@ author_profile: true
 ## Refereed Publications
 
 ### Methodological Research
-*  **Chakraborty, S**., Martin, A., Guan, Z., Begg, C. B., and Shen, R. (2021). Mining mutation contexts across the cancer genome to map tumor site of origin. *Nat Commun* **12,** 3051. [Link](https://www.nature.com/articles/s41467-021-23094-z).
+*  ** Chakraborty, S**., Martin, A., Guan, Z., Begg, C. B., and Shen, R. (2021). Mining mutation contexts across the cancer genome to map tumor site of origin. *Nat Commun* **12,** 3051. [Link](https://www.nature.com/articles/s41467-021-23094-z).
 * **Chakraborty, S.** Tian, L, Tseng, Y, and Wong, S. W. (2021).  Bayesian analysis of coupled cellular and nuclear trajectories for cell migration. _Biometrics_ 1-12. [Link.](https://onlinelibrary.wiley.com/doi/10.1111/biom.13468)
 * Lee, M., **Chakraborty, S.**, and Su, Z. (2021). A Bayesian approach to envelope quantile regression. *To appear in Statistica Sinica.* [Link.](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2020-0109_na.pdf)
-*  **Chakraborty, S.**, Begg, C. B., and Shen, R. (2020). Using the “Hidden” Genome to Improve
-  Classification of Cancer Types. *Biometrics. 2020;1–11.* [Link.](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13367) [arXiv.](https://arxiv.org/abs/2005.10779)
+*  **Chakraborty, S.**, Begg, C. B., and Shen, R. (2020). Using the “Hidden” Genome to Improve  Classification of Cancer Types. *Biometrics. 2020;1–11.* [Link.](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13367) [arXiv.](https://arxiv.org/abs/2005.10779)
 * **Chakraborty, S.** and Khare, K. (2019).  Consistent estimation of the spectrum of trace class data augmentation algorithms. *Bernoulli.* 25(4B), 2019, 3832–3863. [arXiv.](https://arxiv.org/abs/1711.00572) [Link](https://projecteuclid.org/euclid.bj/1569398786).
 * **Chakraborty, S.**, Arora A., Begg, C. B. and Shen, R. (2019). Using Somatic Variant Richness to Mine Signals from Rare Variants in the Cancer Genome. *Nat Commun 10*, 5506 (2019). [Link](https://www.nature.com/articles/s41467-019-13402-z).
 * **Chakraborty, S.** and Khare, K. (2017). Convergence properties of Gibbs samplers for Bayesian probit regression with proper priors, *Electronic Journal of Statistics* 11, 177-210. [Link](https://projecteuclid.org/euclid.ejs/1485939612)
@@ -34,6 +33,8 @@ author_profile: true
 ###  Collaborative Applied Research
 
 * **Chakraborty, S.**, Ecker, B. L., Seier, K., Aveson, V. G., Balachandran, V. P., Drebin, J. A., D'Angelica, M. I., Kingham, T. P., Sigel, C. S., Soares, K. C., Vakiani, E., Wei, A. C., Chandwani, R., Gonen, M., Shen, R., Jarnagin, W. R. (2021). Genome-derived Classification Signature for Ampullary Adenocarcinoma to Improve Clinical Cancer Care. *To appear in Clinical Cancer Research*.
+
+* Ambruster, C.E., Brauer, A.L., Humby, M.S., Shao, J., **Chakraborty, S.** (2021).  Prospective assessment of catheter-associated bacteriuria in nursing home residents: clinical presentation, epidemiology, and colonization dynamics.  To appear in *JCI Insight*. 
 
 * Cassidy, D. J.,  **Chakraborty, S.**, Panda, N.,  McKinley, S. K., Mansur, A., Hamdi I., Mullen,  J., Petrusa, E., Phitayakorn, R., and Gee, D. (2020). The Surgical Knowledge "Growth Curve": Predicting ABSITE Scores and Identifying "At-Risk" Residents. *Journal of Surgical Education.* [Link.](https://www.sciencedirect.com/science/article/abs/pii/S1931720420302312)
 
