@@ -65,7 +65,7 @@ author_profile: true
 
 
 ## Software
-* [BAMBI](https://cran.r-project.org/web/packages/BAMBI/index.html): An R package for Bivariate Angular Mixture Models. *Downloaded over 17,000 times.*
+* [BAMBI](https://cran.r-project.org/web/packages/BAMBI/index.html): An R package for Bivariate Angular Mixture Models. *Downloaded over 35,000 times.*
 
 * [variantprobs](https://github.com/c7rishi/variantprobs): An R package for estimating probabilities and expected numbers of mutations in the tumor genome.
 
