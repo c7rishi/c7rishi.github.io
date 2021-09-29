@@ -15,7 +15,7 @@ author_profile: true
 ## Refereed Publications
 
 ### Methodological Research
-*  ** Chakraborty, S**., Martin, A., Guan, Z., Begg, C. B., and Shen, R. (2021). Mining mutation contexts across the cancer genome to map tumor site of origin. *Nat Commun* **12,** 3051. [Link](https://www.nature.com/articles/s41467-021-23094-z).
+*  **Chakraborty, S**., Martin, A., Guan, Z., Begg, C. B., and Shen, R. (2021). Mining mutation contexts across the cancer genome to map tumor site of origin. *Nat Commun* **12,** 3051. [Link](https://www.nature.com/articles/s41467-021-23094-z).
 * **Chakraborty, S.** Tian, L, Tseng, Y, and Wong, S. W. (2021).  Bayesian analysis of coupled cellular and nuclear trajectories for cell migration. _Biometrics_ 1-12. [Link.](https://onlinelibrary.wiley.com/doi/10.1111/biom.13468)
 * Lee, M., **Chakraborty, S.**, and Su, Z. (2021). A Bayesian approach to envelope quantile regression. *To appear in Statistica Sinica.* [Link.](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2020-0109_na.pdf)
 *  **Chakraborty, S.**, Begg, C. B., and Shen, R. (2020). Using the “Hidden” Genome to Improve  Classification of Cancer Types. *Biometrics. 2020;1–11.* [Link.](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13367) [arXiv.](https://arxiv.org/abs/2005.10779)
@@ -32,7 +32,7 @@ author_profile: true
 
 ###  Collaborative Applied Research
 
-* **Chakraborty, S.**, Ecker, B. L., Seier, K., Aveson, V. G., Balachandran, V. P., Drebin, J. A., D'Angelica, M. I., Kingham, T. P., Sigel, C. S., Soares, K. C., Vakiani, E., Wei, A. C., Chandwani, R., Gonen, M., Shen, R., Jarnagin, W. R. (2021). Genome-derived Classification Signature for Ampullary Adenocarcinoma to Improve Clinical Cancer Care. *To appear in Clinical Cancer Research*.
+* **Chakraborty, S.**, Ecker, B. L., Seier, K., Aveson, V. G., Balachandran, V. P., Drebin, J. A., D'Angelica, M. I., Kingham, T. P., Sigel, C. S., Soares, K. C., Vakiani, E., Wei, A. C., Chandwani, R., Gonen, M., Shen, R., Jarnagin, W. R. (2021). Genome-derived Classification Signature for Ampullary Adenocarcinoma to Improve Clinical Cancer Care. *Clinical Cancer Research*. [Link](https://clincancerres.aacrjournals.org/content/early/2021/09/25/1078-0432.CCR-21-1906).
 
 * Ambruster, C.E., Brauer, A.L., Humby, M.S., Shao, J., **Chakraborty, S.** (2021).  Prospective assessment of catheter-associated bacteriuria in nursing home residents: clinical presentation, epidemiology, and colonization dynamics.  *JCI Insight*. [Link](https://pubmed.ncbi.nlm.nih.gov/34473649/).
 
