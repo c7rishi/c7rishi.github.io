@@ -27,8 +27,6 @@ author_profile: true
 
 *   **Chakraborty, S.**, Arora A., Begg, C. B. and Shen, R. (2019). Using Somatic Variant Richness to Mine Signals from Rare Variants in the Cancer Genome. *Nat Commun 10*, 5506 (2019). [Link](https://www.nature.com/articles/s41467-019-13402-z).
 
-
-
 ### Markov Chain Monte Carlo Theory
 
 *  **Chakraborty, S.** and Khare, K. (2019).  Consistent estimation of the spectrum of trace class data augmentation algorithms. *Bernoulli.* 25(4B), 2019, 3832–3863. [arXiv.](https://arxiv.org/abs/1711.00572) [Link](https://projecteuclid.org/euclid.bj/1569398786).
@@ -44,7 +42,7 @@ author_profile: true
 
 ###  Computational Research
 
-* **Chakraborty, S.** and Wong, S. W. (2021). BAMBI: An R package for Fitting Bivariate Angular Mixture Models. *To appear in the Journal of Statistical Software*. [arXiv.](https://arxiv.org/abs/1708.07804)
+* **Chakraborty, S.** and Wong, S. W. (2021). BAMBI: An R package for Fitting Bivariate Angular Mixture Models. *Journal of Statistical Software*, *99*(11), 1–69. [Link](https://doi.org/10.18637/jss.v099.i11). 
 
 
 ###  Collaborative Applied Research
