@@ -19,7 +19,7 @@ author_profile: true
 
 *  **Chakraborty, S**., Martin, A., Guan, Z., Begg, C. B., and Shen, R. (2021). Mining mutation contexts across the cancer genome to map tumor site of origin. *Nat Commun* **12,** 3051. [Link](https://www.nature.com/articles/s41467-021-23094-z).
 
-* **Chakraborty, S.**, Ecker, B. L., Seier, K., Aveson, V. G., Balachandran, V. P., Drebin, J. A., D'Angelica, M. I., Kingham, T. P., Sigel, C. S., Soares, K. C., Vakiani, E., Wei, A. C., Chandwani, R., Gonen, M., Shen, R., Jarnagin, W. R. (2021). Genome-derived Classification Signature for Ampullary Adenocarcinoma to Improve Clinical Cancer Care. *Clinical Cancer Research*. [Link](https://clincancerres.aacrjournals.org/content/early/2021/09/25/1078-0432.CCR-21-1906).
+* **Chakraborty, S.**, Ecker, B. L., Seier, K., Aveson, V. G., Balachandran, V. P., Drebin, J. A., D'Angelica, M. I., Kingham, T. P., Sigel, C. S., Soares, K. C., Vakiani, E., Wei, A. C., Chandwani, R., Gonen, M., Shen, R., Jarnagin, W. R. (2021). Genome-derived Classification Signature for Ampullary Adenocarcinoma to Improve Clinical Cancer Care. *Clinical Cancer Research*.  **(27)** (21) 5891-5899. [Link](https://clincancerres.aacrjournals.org/content/early/2021/09/25/1078-0432.CCR-21-1906).
 
 * **Chakraborty, S.** Tian, L, Tseng, Y, and Wong, S. W. (2021).  Bayesian analysis of coupled cellular and nuclear trajectories for cell migration. _Biometrics_ 1-12. [Link.](https://onlinelibrary.wiley.com/doi/10.1111/biom.13468)
 
@@ -47,7 +47,7 @@ author_profile: true
 
 ###  Collaborative Applied Research
 
-* Ambruster, C.E., Brauer, A.L., Humby, M.S., Shao, J., **Chakraborty, S.** (2021).  Prospective assessment of catheter-associated bacteriuria in nursing home residents: clinical presentation, epidemiology, and colonization dynamics.  *JCI Insight*. [Link](https://pubmed.ncbi.nlm.nih.gov/34473649/).
+* Ambruster, C.E., Brauer, A.L., Humby, M.S., Shao, J., **Chakraborty, S.** (2021).  Prospective assessment of catheter-associated bacteriuria in nursing home residents: clinical presentation, epidemiology, and colonization dynamics.  * JCI Insight.* Oct 8;6(19):e144775. [Link](https://pubmed.ncbi.nlm.nih.gov/34473649/).
 
 * Cassidy, D. J.,  **Chakraborty, S.**, Panda, N.,  McKinley, S. K., Mansur, A., Hamdi I., Mullen,  J., Petrusa, E., Phitayakorn, R., and Gee, D. (2020). The Surgical Knowledge "Growth Curve": Predicting ABSITE Scores and Identifying "At-Risk" Residents. *Journal of Surgical Education.* [Link.](https://www.sciencedirect.com/science/article/abs/pii/S1931720420302312)
 
@@ -74,13 +74,15 @@ author_profile: true
 
 * **Chakraborty, S.** and Su, Z. (2020+). A comprehensive Bayesian framework for envelope models. *In revision*.
 
-* **Chakraborty, S.**, Bhattacharya, B., and Khare, K. (2020+). Estimating accuracy of MCMC standard error: a central limit theorem for batch means estimator. *Under review.* [arXiv.](https://arxiv.org/abs/1911.00915)
+* **Chakraborty, S.**, Bhattacharya, B., and Khare, K. (2020+). Estimating accuracy of MCMC standard error: a central limit theorem for batch means estimator. *In revision.* [arXiv.](https://arxiv.org/abs/1911.00915)
 
 * **Chakraborty, S.** and Wong, S. W. (2020+) On the circular correlation coefficients for bivariate von Mises distributions on a torus. *Under review.* [arXiv.](https://arxiv.org/abs/1804.08553)
 
-  
+* Atanasova, K, **Chakraborty, S** (co-first author), Ratnayake, R, Khare, K, Luesch, H.  An epigenetic small molecule screen to target abnormal nuclear morphology in human cells. *Under review*.
 
-  
+
+
+
 
 
 
