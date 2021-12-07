@@ -11,37 +11,32 @@ author_profile: true
 
 {% include base_path %}
 
-
 ## Refereed Publications
 
+### Statistics in Genomics and Computational Biology
 
-###  Statistics in Genomics and Computational Biology
-
-*  **Chakraborty, S**., Martin, A., Guan, Z., Begg, C. B., and Shen, R. (2021). Mining mutation contexts across the cancer genome to map tumor site of origin. *Nat Commun* **12,** 3051. [Link](https://www.nature.com/articles/s41467-021-23094-z).
-*  **Chakraborty, S.**, Ecker, B. L., Seier, K., Aveson, V. G., Balachandran, V. P., Drebin, J. A., D'Angelica, M. I., Kingham, T. P., Sigel, C. S., Soares, K. C., Vakiani, E., Wei, A. C., Chandwani, R., Gonen, M., Shen, R., Jarnagin, W. R. (2021). Genome-derived Classification Signature for Ampullary Adenocarcinoma to Improve Clinical Cancer Care. *Clinical Cancer Research*.  **(27)** (21) 5891-5899. [Link](https://clincancerres.aacrjournals.org/content/early/2021/09/25/1078-0432.CCR-21-1906).
-*  **Chakraborty, S.** Tian, L, Tseng, Y, and Wong, S. W. (2021).  Bayesian analysis of coupled cellular and nuclear trajectories for cell migration. _Biometrics_ 1-12. [Link.](https://onlinelibrary.wiley.com/doi/10.1111/biom.13468)
-*  **Chakraborty, S.**, Begg, C. B., and Shen, R. (2020). Using the “Hidden” Genome to Improve  Classification of Cancer Types. *Biometrics. 2020;1–11.* [Link.](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13367) [arXiv.](https://arxiv.org/abs/2005.10779)
-*  **Chakraborty, S.**, Arora A., Begg, C. B. and Shen, R. (2019). Using Somatic Variant Richness to Mine Signals from Rare Variants in the Cancer Genome. *Nat Commun 10*, 5506 (2019). [Link](https://www.nature.com/articles/s41467-019-13402-z).
+* **Chakraborty, S**., Martin, A., Guan, Z., Begg, C. B., and Shen, R. (2021). Mining mutation contexts across the cancer genome to map tumor site of origin. *Nat Commun* **12,** 3051. [Link](https://www.nature.com/articles/s41467-021-23094-z).
+* **Chakraborty, S.**, Ecker, B. L., Seier, K., Aveson, V. G., Balachandran, V. P., Drebin, J. A., D'Angelica, M. I., Kingham, T. P., Sigel, C. S., Soares, K. C., Vakiani, E., Wei, A. C., Chandwani, R., Gonen, M., Shen, R., Jarnagin, W. R. (2021). Genome-derived Classification Signature for Ampullary Adenocarcinoma to Improve Clinical Cancer Care. *Clinical Cancer Research*.  **(27)** (21) 5891-5899. [Link](https://clincancerres.aacrjournals.org/content/early/2021/09/25/1078-0432.CCR-21-1906).
+* **Chakraborty, S.** Tian, L, Tseng, Y, and Wong, S. W. (2021).  Bayesian analysis of coupled cellular and nuclear trajectories for cell migration. _Biometrics_ 1-12. [Link.](https://onlinelibrary.wiley.com/doi/10.1111/biom.13468)
+* **Chakraborty, S.**, Begg, C. B., and Shen, R. (2020). Using the “Hidden” Genome to Improve  Classification of Cancer Types. *Biometrics. 2020;1–11.* [Link.](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13367) [arXiv.](https://arxiv.org/abs/2005.10779)
+* **Chakraborty, S.**, Arora A., Begg, C. B. and Shen, R. (2019). Using Somatic Variant Richness to Mine Signals from Rare Variants in the Cancer Genome. *Nat Commun 10*, 5506 (2019). [Link](https://www.nature.com/articles/s41467-019-13402-z).
 
 ### Markov Chain Monte Carlo Theory
 
-*  **Chakraborty, S.** and Khare, K. (2019).  Consistent estimation of the spectrum of trace class data augmentation algorithms. *Bernoulli.* 25(4B), 2019, 3832–3863. [arXiv.](https://arxiv.org/abs/1711.00572) [Link](https://projecteuclid.org/euclid.bj/1569398786).
+* **Chakraborty, S.** and Khare, K. (2019).  Consistent estimation of the spectrum of trace class data augmentation algorithms. *Bernoulli.* 25(4B), 2019, 3832–3863. [arXiv.](https://arxiv.org/abs/1711.00572) [Link](https://projecteuclid.org/euclid.bj/1569398786).
 
-*  **Chakraborty, S.** and Khare, K. (2017). Convergence properties of Gibbs samplers for Bayesian probit regression with proper priors, *Electronic Journal of Statistics* 11, 177-210. [Link](https://projecteuclid.org/euclid.ejs/1485939612).
+* **Chakraborty, S.** and Khare, K. (2017). Convergence properties of Gibbs samplers for Bayesian probit regression with proper priors, *Electronic Journal of Statistics* 11, 177-210. [Link](https://projecteuclid.org/euclid.ejs/1485939612).
 
-
-###  Multivariate Analysis and Robust Statistical Methods
+### Multivariate Analysis and Robust Statistical Methods
 
 * Lee, M., **Chakraborty, S.**, and Su, Z. (2021). A Bayesian approach to envelope quantile regression. *To appear in Statistica Sinica.* [Link.](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2020-0109_na.pdf)
 * Maji, A., **Chakraborty, S.**, and Basu, A., (2017). Statistical Inference based on the Logarithmic Power Divergence. *Society For Application Of Statistics And Allied Sciences*, 2, 39–51. [Link](http://www.sasaa.org/complete_journal/vol2__6.pdf)
 
-
-###  Computational Research
+### Computational Research
 
 * **Chakraborty, S.** and Wong, S. W. (2021). BAMBI: An R package for Fitting Bivariate Angular Mixture Models. *Journal of Statistical Software*, *99*(11), 1–69. [Link](https://doi.org/10.18637/jss.v099.i11). 
 
-
-###  Collaborative Applied Research
+### Collaborative Applied Research
 
 * Ambruster, C.E., Brauer, A.L., Humby, M.S., Shao, J., **Chakraborty, S.** (2021).  Prospective assessment of catheter-associated bacteriuria in nursing home residents: clinical presentation, epidemiology, and colonization dynamics.  *JCI Insight.* Oct 8;6(19):e144775. [Link](https://pubmed.ncbi.nlm.nih.gov/34473649/).
 
@@ -57,24 +52,17 @@ author_profile: true
 
 * Vaziri, S., Wilson, J., Abbatematteo, J., Kubilis, P., **Chakraborty, S.**, Kshitij, K., and Hoh, D. J. (2017). Predictive performance of the American College of Surgeons universal risk calculator in neurosurgical patients. *Journal of Neurosurgery*, 1-6. [Link](https://www.ncbi.nlm.nih.gov/pubmed/28452615).
 
-
 ## Software
+
 * [BAMBI](https://cran.r-project.org/web/packages/BAMBI/index.html): An R package for Bivariate Angular Mixture Models. *Downloaded over 35,000 times.*
 * [variantprobs](https://github.com/c7rishi/variantprobs): An R package for estimating probabilities and expected numbers of mutations in the tumor genome.
 * [hidgenclassifier](https://github.com/c7rishi/hidgenclassifier): An R package implementing Key functions for Bayesian hidden genome classifiers.  Includes functions for preprocessing genommic data, fitting and predicting from hidden genome classifiers.
 * [pvLRT](https://github.com/c7rishi/pvLRT): An R package for likelihood ratio test based methods for pharmacovigilance. 
 
-
 ## Submitted or in-revision
 
-* **Chakraborty, S.** and Su, Z. (2020+). A comprehensive Bayesian framework for envelope models. *In revision*.
-* **Chakraborty, S.**, Bhattacharya, B., and Khare, K. (2020+). Estimating accuracy of MCMC standard error: a central limit theorem for batch means estimator. *In revision.* [arXiv.](https://arxiv.org/abs/1911.00915)
-* **Chakraborty, S.** and Wong, S. W. (2020+) On the circular correlation coefficients for bivariate von Mises distributions on a torus. *Under review.* [arXiv.](https://arxiv.org/abs/1804.08553)
-* Atanasova, K, **Chakraborty, S** (co-first author), Ratnayake, R, Khare, K, Luesch, H.  An epigenetic small molecule screen to target abnormal nuclear morphology in human cells. *Under review*.
-
-
-
-
-
-
-
+* **Chakraborty, S.**, Liu, A., Ball, R., and Markatou, M. (2021+). On the Use of the Likelihood Ratio Test Methodology in Pharmacovigilance. Submitted.
+* **Chakraborty, S.** and Su, Z. (2021+). A comprehensive Bayesian framework for envelope models. *In revision*.
+* **Chakraborty, S.**, Bhattacharya, B., and Khare, K. (2021+). Estimating accuracy of MCMC standard error: a central limit theorem for batch means estimator. *In revision.* [arXiv.](https://arxiv.org/abs/1911.00915)
+* **Chakraborty, S.** and Wong, S. W. (2021+) On the circular correlation coefficients for bivariate von Mises distributions on a torus. *Under review.* [arXiv.](https://arxiv.org/abs/1804.08553)
+* Atanasova, K, **Chakraborty, S** (co-first author), Ratnayake, R, Khare, K, Luesch, H.  (2021+). An epigenetic small molecule screen to target abnormal nuclear morphology in human cells. *Under review*.
