@@ -61,8 +61,9 @@ author_profile: true
 
 ## Submitted or in-revision
 
-* **Chakraborty, S.**, Liu, A., Ball, R., and Markatou, M. (2021+). On the Use of the Likelihood Ratio Test Methodology in Pharmacovigilance. Submitted.
+* **Chakraborty, S.**, and Markatou, M. (2021+). Likelihood Ratio Test Based Drug Safety Assessment using R package pvLRT.
+* **Chakraborty, S.**, Liu, A., Ball, R., and Markatou, M. (2021+). On the Use of the Likelihood Ratio Test Methodology in Pharmacovigilance. *Submitted.*
 * **Chakraborty, S.** and Su, Z. (2021+). A comprehensive Bayesian framework for envelope models. *In revision*.
 * **Chakraborty, S.**, Bhattacharya, B., and Khare, K. (2021+). Estimating accuracy of MCMC standard error: a central limit theorem for batch means estimator. *In revision.* [arXiv.](https://arxiv.org/abs/1911.00915)
 * **Chakraborty, S.** and Wong, S. W. (2021+) On the circular correlation coefficients for bivariate von Mises distributions on a torus. *Under review.* [arXiv.](https://arxiv.org/abs/1804.08553)
-* Atanasova, K, **Chakraborty, S** (co-first author), Ratnayake, R, Khare, K, Luesch, H.  (2021+). An epigenetic small molecule screen to target abnormal nuclear morphology in human cells. *Under review*.
+* Atanasova, K, **Chakraborty, S** (co-first author), Ratnayake, R, Khare, K, Luesch, H.  (2021+). An epigenetic small molecule screen to target abnormal nuclear morphology in human cells. *In revision*.
