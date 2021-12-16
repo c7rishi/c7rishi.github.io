@@ -61,6 +61,7 @@ author_profile: true
 
 ## Submitted or in-revision
 
+* Mukherjee S, Khare K, and **Chakraborty S**. (2021+). Convergence properties of data augmentation algorithms for high-dimensional robit regression. *Submitted.* 
 * **Chakraborty, S.**, and Markatou, M. (2021+). Likelihood Ratio Test Based Drug Safety Assessment using R package pvLRT.
 * **Chakraborty, S.**, Liu, A., Ball, R., and Markatou, M. (2021+). On the Use of the Likelihood Ratio Test Methodology in Pharmacovigilance. *Submitted.*
 * **Chakraborty, S.** and Su, Z. (2021+). A comprehensive Bayesian framework for envelope models. *In revision*.
