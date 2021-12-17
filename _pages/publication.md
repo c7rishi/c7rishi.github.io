@@ -67,4 +67,4 @@ author_profile: true
 * **Chakraborty, S.** and Su, Z. (2021+). A comprehensive Bayesian framework for envelope models. *In revision*.
 * **Chakraborty, S.** and Wong, S. W. (2021+) On the circular correlation coefficients for bivariate von Mises distributions on a torus. *Under review.* [arXiv.](https://arxiv.org/abs/1804.08553)
 * Atanasova, K, **Chakraborty, S** (co-first author), Ratnayake, R, Khare, K, Luesch, H.  (2021+). An epigenetic small molecule screen to target abnormal nuclear morphology in human cells. *In revision*.
-
+* Batra, A, Barnard, A, Lott, D J, Willcocks, R, Forbes, S C, **Chakraborty, S**, Daniels, M, Arbogast, J, Triplett, W, Henricson, E, Dayan, J G, Schmalfuss, C, Sweeney, L, Byrne, B J, McDonald, C, Vandenborne, K, Walter, G A. Longitudinal changes in cardiac function in Duchenne muscular dystrophy population as measured by magnetic resonance imaging. (2021+) *In revision*.
