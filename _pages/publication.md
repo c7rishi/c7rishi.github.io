@@ -23,8 +23,8 @@ author_profile: true
 
 ### Markov Chain Monte Carlo Theory
 
+* **Chakraborty, S.**, Bhattacharya, B., and Khare, K. (2022). Estimating accuracy of MCMC standard error: a central limit theorem for batch means estimator. *To appear in Statistics and Probability Letters.* [arXiv.](https://arxiv.org/abs/1911.00915)
 * **Chakraborty, S.** and Khare, K. (2019).  Consistent estimation of the spectrum of trace class data augmentation algorithms. *Bernoulli.* 25(4B), 2019, 3832–3863. [arXiv.](https://arxiv.org/abs/1711.00572) [Link](https://projecteuclid.org/euclid.bj/1569398786).
-
 * **Chakraborty, S.** and Khare, K. (2017). Convergence properties of Gibbs samplers for Bayesian probit regression with proper priors, *Electronic Journal of Statistics* 11, 177-210. [Link](https://projecteuclid.org/euclid.ejs/1485939612).
 
 ### Multivariate Analysis and Robust Statistical Methods
@@ -65,6 +65,6 @@ author_profile: true
 * **Chakraborty, S.**, and Markatou, M. (2021+). Likelihood Ratio Test Based Drug Safety Assessment using R package pvLRT.
 * **Chakraborty, S.**, Liu, A., Ball, R., and Markatou, M. (2021+). On the Use of the Likelihood Ratio Test Methodology in Pharmacovigilance. *Submitted.*
 * **Chakraborty, S.** and Su, Z. (2021+). A comprehensive Bayesian framework for envelope models. *In revision*.
-* **Chakraborty, S.**, Bhattacharya, B., and Khare, K. (2021+). Estimating accuracy of MCMC standard error: a central limit theorem for batch means estimator. *In revision.* [arXiv.](https://arxiv.org/abs/1911.00915)
 * **Chakraborty, S.** and Wong, S. W. (2021+) On the circular correlation coefficients for bivariate von Mises distributions on a torus. *Under review.* [arXiv.](https://arxiv.org/abs/1804.08553)
 * Atanasova, K, **Chakraborty, S** (co-first author), Ratnayake, R, Khare, K, Luesch, H.  (2021+). An epigenetic small molecule screen to target abnormal nuclear morphology in human cells. *In revision*.
+
