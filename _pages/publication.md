@@ -38,6 +38,8 @@ author_profile: true
 
 ### Collaborative Applied Research
 
+* Atanasova, K, **Chakraborty, S** (co-first author), Ratnayake, R, Khare, K, Luesch, H. (2021+). An epigenetic small molecule screen to target abnormal nuclear morphology in human cells. *To appear in Molecular Biology of the Cell*.
+
 * Ambruster, C.E., Brauer, A.L., Humby, M.S., Shao, J., **Chakraborty, S.** (2021).  Prospective assessment of catheter-associated bacteriuria in nursing home residents: clinical presentation, epidemiology, and colonization dynamics.  *JCI Insight.* Oct 8;6(19):e144775. [Link](https://pubmed.ncbi.nlm.nih.gov/34473649/).
 
 * Cassidy, D. J.,  **Chakraborty, S.**, Panda, N.,  McKinley, S. K., Mansur, A., Hamdi I., Mullen,  J., Petrusa, E., Phitayakorn, R., and Gee, D. (2020). The Surgical Knowledge "Growth Curve": Predicting ABSITE Scores and Identifying "At-Risk" Residents. *Journal of Surgical Education.* [Link.](https://www.sciencedirect.com/science/article/abs/pii/S1931720420302312)
@@ -66,5 +68,4 @@ author_profile: true
 * **Chakraborty, S.**, Liu, A., Ball, R., and Markatou, M. (2021+). On the Use of the Likelihood Ratio Test Methodology in Pharmacovigilance. *Submitted.*
 * **Chakraborty, S.** and Su, Z. (2021+). A comprehensive Bayesian framework for envelope models. *In revision*.
 * **Chakraborty, S.** and Wong, S. W. (2021+) On the circular correlation coefficients for bivariate von Mises distributions on a torus. *Under review.* [arXiv.](https://arxiv.org/abs/1804.08553)
-* Atanasova, K, **Chakraborty, S** (co-first author), Ratnayake, R, Khare, K, Luesch, H.  (2021+). An epigenetic small molecule screen to target abnormal nuclear morphology in human cells. *In revision*.
 * Batra, A, Barnard, A, Lott, D J, Willcocks, R, Forbes, S C, **Chakraborty, S**, Daniels, M, Arbogast, J, Triplett, W, Henricson, E, Dayan, J G, Schmalfuss, C, Sweeney, L, Byrne, B J, McDonald, C, Vandenborne, K, Walter, G A. Longitudinal changes in cardiac function in Duchenne muscular dystrophy population as measured by magnetic resonance imaging. (2021+) *In revision*.
