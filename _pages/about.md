@@ -14,6 +14,4 @@ I received my PhD in statistics from the University of Florida in 2018, and then
 
 
 
-
-
 Contact: <chakrab2@buffalo.edu>
