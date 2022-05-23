@@ -27,9 +27,10 @@ author_profile: true
 * **Chakraborty, S.** and Khare, K. (2019).  Consistent estimation of the spectrum of trace class data augmentation algorithms. *Bernoulli.* 25(4B), 2019, 3832–3863. [arXiv.](https://arxiv.org/abs/1711.00572) [Link](https://projecteuclid.org/euclid.bj/1569398786).
 * **Chakraborty, S.** and Khare, K. (2017). Convergence properties of Gibbs samplers for Bayesian probit regression with proper priors, *Electronic Journal of Statistics* 11, 177-210. [Link](https://projecteuclid.org/euclid.ejs/1485939612).
 
-### Multivariate Analysis and Robust Statistical Methods
+### Multivariate Analysis and Statistical Methods on Manifolds and Constrained Spaces
 
 * Lee, M., **Chakraborty, S.**, and Su, Z. (2022). A Bayesian approach to envelope quantile regression. *Statistica Sinica.* 32 (2022), 1-19 [Link.](http://www3.stat.sinica.edu.tw/LatestART/SS-2020-0109_fp.pdf)
+* **Chakraborty, S.** and Wong, S. W. (2022). On the circular correlation coefficients for bivariate von Mises distributions on a torus. *To appear in Statistical Papers.* [arXiv.](https://arxiv.org/abs/1804.08553)
 * Maji, A., **Chakraborty, S.**, and Basu, A., (2017). Statistical Inference based on the Logarithmic Power Divergence. *Society For Application Of Statistics And Allied Sciences*, 2, 39–51. [Link](http://www.sasaa.org/complete_journal/vol2__6.pdf)
 
 ### Computational Research
@@ -69,5 +70,4 @@ author_profile: true
 * **Chakraborty, S.**, and Markatou, M. (2022+). Likelihood Ratio Test Based Drug Safety Assessment using R package pvLRT.
 * **Chakraborty, S.**, Liu, A., Ball, R., and Markatou, M. (2022+). On the Use of the Likelihood Ratio Test Methodology in Pharmacovigilance. *Submitted.*
 * **Chakraborty, S.** and Su, Z. (2022+). A comprehensive Bayesian framework for envelope models. *In revision*.
-* **Chakraborty, S.** and Wong, S. W. (2022+) On the circular correlation coefficients for bivariate von Mises distributions on a torus. *Under review.* [arXiv.](https://arxiv.org/abs/1804.08553)
 * Shen Y, Park Y, **Chakraborty S**, Zhang C. (2022+) Bayesian simultaneous partial envelope model with application to an imaging genetics analysis. *Submitted.*
