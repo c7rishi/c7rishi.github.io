@@ -27,7 +27,7 @@ author_profile: true
 * **Chakraborty, S.** and Khare, K. (2019).  Consistent estimation of the spectrum of trace class data augmentation algorithms. *Bernoulli.* 25(4B), 2019, 3832–3863. [arXiv.](https://arxiv.org/abs/1711.00572) [Link](https://projecteuclid.org/euclid.bj/1569398786).
 * **Chakraborty, S.** and Khare, K. (2017). Convergence properties of Gibbs samplers for Bayesian probit regression with proper priors, *Electronic Journal of Statistics* 11, 177-210. [Link](https://projecteuclid.org/euclid.ejs/1485939612).
 
-### Multivariate Analysis and Statistical Methods for Data on Manifolds and Constrained Spaces
+### Statistical Methods for Multivariate Data and Data on Manifolds and Constrained Spaces
 
 * Lee, M., **Chakraborty, S.**, and Su, Z. (2022). A Bayesian approach to envelope quantile regression. *Statistica Sinica.* 32 (2022), 1-19 [Link.](http://www3.stat.sinica.edu.tw/LatestART/SS-2020-0109_fp.pdf)
 * **Chakraborty, S.** and Wong, S. W. (2022). On the circular correlation coefficients for bivariate von Mises distributions on a torus. *To appear in Statistical Papers.* [arXiv.](https://arxiv.org/abs/1804.08553)
