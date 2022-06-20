@@ -30,7 +30,7 @@ author_profile: true
 ### Statistical Methods for Multivariate Data and Data on Manifolds and Constrained Spaces
 
 * Lee, M., **Chakraborty, S.**, and Su, Z. (2022). A Bayesian approach to envelope quantile regression. *Statistica Sinica.* 32 (2022), 1-19 [Link.](http://www3.stat.sinica.edu.tw/LatestART/SS-2020-0109_fp.pdf)
-* **Chakraborty, S.** and Wong, S. W. (2022). On the circular correlation coefficients for bivariate von Mises distributions on a torus. *To appear in Statistical Papers.* [arXiv.](https://arxiv.org/abs/1804.08553)
+* **Chakraborty, S.** and Wong, S. W. (2022). On the circular correlation coefficients for bivariate von Mises distributions on a torus. *Stat Papers.*  [Link.](https://link.springer.com/article/10.1007/s00362-022-01333-9) [arXiv.](https://arxiv.org/abs/1804.08553)
 * Maji, A., **Chakraborty, S.**, and Basu, A., (2017). Statistical Inference based on the Logarithmic Power Divergence. *Society For Application Of Statistics And Allied Sciences*, 2, 39–51. [Link](http://www.sasaa.org/complete_journal/vol2__6.pdf)
 
 ### Computational Research
