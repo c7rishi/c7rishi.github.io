@@ -21,6 +21,10 @@ author_profile: true
 * **Chakraborty, S.**, Begg, C. B., and Shen, R. (2020). Using the “Hidden” Genome to Improve  Classification of Cancer Types. *Biometrics. 2020;1–11.* [Link.](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13367) [arXiv.](https://arxiv.org/abs/2005.10779)
 * **Chakraborty, S.**, Arora A., Begg, C. B. and Shen, R. (2019). Using Somatic Variant Richness to Mine Signals from Rare Variants in the Cancer Genome. *Nat Commun 10*, 5506 (2019). [Link](https://www.nature.com/articles/s41467-019-13402-z).
 
+### Statistics in Medical Product Safety/Pharmacovigilance
+
+* **Chakraborty, S.**, Liu, A., Ball, R., and Markatou, M. (2022). On the Use of the Likelihood Ratio Test Methodology in Pharmacovigilance. *To appear in Statistics in Medicine.*
+
 ### Markov Chain Monte Carlo Theory
 
 * **Chakraborty, S.**, Bhattacharya, B., and Khare, K. (2022). Estimating accuracy of the MCMC variance estimator: asymptotic normality for batch means estimators. *Statistics and Probability Letters.*  *183*, 109337. [arXiv.](https://arxiv.org/abs/1911.00915) [Link](https://www.sciencedirect.com/science/article/abs/pii/S0167715221002868).
@@ -68,6 +72,5 @@ author_profile: true
 
 * Mukherjee S, Khare K, and **Chakraborty S**. (2022+). Convergence properties of data augmentation algorithms for high-dimensional robit regression. *In revision.* 
 * **Chakraborty, S.**, and Markatou, M. (2022+). Likelihood Ratio Test Based Drug Safety Assessment using R package pvLRT.
-* **Chakraborty, S.**, Liu, A., Ball, R., and Markatou, M. (2022+). On the Use of the Likelihood Ratio Test Methodology in Pharmacovigilance. *In revision.*
 * **Chakraborty, S.** and Su, Z. (2022+). A comprehensive Bayesian framework for envelope models. *In revision*.
 * Shen Y, Park Y, **Chakraborty S**, Zhang C. (2022+) Bayesian simultaneous partial envelope model with application to an imaging genetics analysis. *Submitted.*
