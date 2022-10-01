@@ -23,7 +23,7 @@ author_profile: true
 
 ### Statistics in Medical Product Safety/Pharmacovigilance
 
-* **Chakraborty, S.**, Liu, A., Ball, R., and Markatou, M. (2022). On the Use of the Likelihood Ratio Test Methodology in Pharmacovigilance. *To appear in Statistics in Medicine.*
+* **Chakraborty, S.**, Liu, A., Ball, R., and Markatou, M. (2022). On the Use of the Likelihood Ratio Test Methodology in Pharmacovigilance. *Statistics in Medicine.* Online ahead of print. [Link.](https://doi.org/10.1002/sim.9575)
 
 ### Markov Chain Monte Carlo Theory
 
