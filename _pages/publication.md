@@ -73,6 +73,6 @@ author_profile: true
 
 * Mukherjee S, Khare K, and **Chakraborty S**. (2022+). Convergence properties of data augmentation algorithms for high-dimensional robit regression. *In revision.* 
 * **Chakraborty, S.** and Su, Z. (2022+). A comprehensive Bayesian framework for envelope models. *In revision*.
-* ** Chakraborty, S.,** Guan, Z., Shen, R., and Begg, C.B. (2022+). ''Topical Hidden
+* **Chakraborty, S.,** Guan, Z., Shen, R., and Begg, C.B. (2022+). ''Topical Hidden
   Genome': a Bayesian Multilevel Context and Topic Model for Genome-driven Cancer-type Characterization Problems.
 * Shen Y, Park Y, **Chakraborty S**, Zhang C. (2022+) Bayesian simultaneous partial envelope model with application to an imaging genetics analysis. *Submitted.*
