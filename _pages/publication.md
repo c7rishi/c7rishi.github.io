@@ -39,7 +39,8 @@ author_profile: true
 
 ### Computational Research
 
-* **Chakraborty, S.** and Wong, S. W. (2021). BAMBI: An R package for Fitting Bivariate Angular Mixture Models. *Journal of Statistical Software*, *99*(11), 1–69. [Link](https://doi.org/10.18637/jss.v099.i11). 
+* **Chakraborty, S.** and Wong, S. W. (2021). BAMBI: An R package for Fitting Bivariate Angular Mixture Models. *Journal of Statistical Software*, *99*(11), 1–69. [Link](https://doi.org/10.18637/jss.v099.i11).
+* **Chakraborty, S.**, and Markatou, M. (2022+). Likelihood Ratio Test Based Drug Safety Assessment using R package pvLRT. Accepted for Publication in the *R Journal.* 
 
 ### Collaborative Applied Research
 
@@ -71,6 +72,7 @@ author_profile: true
 ## Submitted or in-revision
 
 * Mukherjee S, Khare K, and **Chakraborty S**. (2022+). Convergence properties of data augmentation algorithms for high-dimensional robit regression. *In revision.* 
-* **Chakraborty, S.**, and Markatou, M. (2022+). Likelihood Ratio Test Based Drug Safety Assessment using R package pvLRT.
 * **Chakraborty, S.** and Su, Z. (2022+). A comprehensive Bayesian framework for envelope models. *In revision*.
+* ** Chakraborty, S.,** Guan, Z., Shen, R., and Begg, C.B. (2022+). ''Topical Hidden
+  Genome': a Bayesian Multilevel Context and Topic Model for Genome-driven Cancer-type Characterization Problems.
 * Shen Y, Park Y, **Chakraborty S**, Zhang C. (2022+) Bayesian simultaneous partial envelope model with application to an imaging genetics analysis. *Submitted.*
