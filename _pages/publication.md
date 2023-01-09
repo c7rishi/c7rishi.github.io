@@ -27,12 +27,14 @@ author_profile: true
 
 ### Markov Chain Monte Carlo Theory
 
+* Mukherjee S, Khare K, and **Chakraborty S**. (2023). Convergence properties of data augmentation algorithms for high-dimensional robit regression. **Electronic Journal of Statistics.* 17(1): 19-69 (2023). [Link.](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-17/issue-1/Convergence-properties-of-data-augmentation-algorithms-for-high-dimensional-robit/10.1214/22-EJS2098.full)
 * **Chakraborty, S.**, Bhattacharya, B., and Khare, K. (2022). Estimating accuracy of the MCMC variance estimator: asymptotic normality for batch means estimators. *Statistics and Probability Letters.*  *183*, 109337. [arXiv.](https://arxiv.org/abs/1911.00915) [Link](https://www.sciencedirect.com/science/article/abs/pii/S0167715221002868).
 * **Chakraborty, S.** and Khare, K. (2019).  Consistent estimation of the spectrum of trace class data augmentation algorithms. *Bernoulli.* 25(4B), 2019, 3832–3863. [arXiv.](https://arxiv.org/abs/1711.00572) [Link](https://projecteuclid.org/euclid.bj/1569398786).
 * **Chakraborty, S.** and Khare, K. (2017). Convergence properties of Gibbs samplers for Bayesian probit regression with proper priors, *Electronic Journal of Statistics* 11, 177-210. [Link](https://projecteuclid.org/euclid.ejs/1485939612).
 
 ### Statistical Methods for Multivariate Data and Data on Manifolds and Constrained Spaces
 
+* Shen Y, Park Y, **Chakraborty S**, Zhang C. (2023). Bayesian simultaneous partial envelope model with application to an imaging genetics analysis. *To appear in The New England Journal of Statistics in Data Science*.
 * Lee, M., **Chakraborty, S.**, and Su, Z. (2022). A Bayesian approach to envelope quantile regression. *Statistica Sinica.* 32 (2022), 1-19 [Link.](http://www3.stat.sinica.edu.tw/LatestART/SS-2020-0109_fp.pdf)
 * **Chakraborty, S.** and Wong, S. W. (2022). On the circular correlation coefficients for bivariate von Mises distributions on a torus. *Stat Papers.*  [Link.](https://link.springer.com/article/10.1007/s00362-022-01333-9) [arXiv.](https://arxiv.org/abs/1804.08553)
 * Maji, A., **Chakraborty, S.**, and Basu, A., (2017). Statistical Inference based on the Logarithmic Power Divergence. *Society For Application Of Statistics And Allied Sciences*, 2, 39–51. [Link](http://www.sasaa.org/complete_journal/vol2__6.pdf)
@@ -40,7 +42,7 @@ author_profile: true
 ### Computational Research
 
 * **Chakraborty, S.** and Wong, S. W. (2021). BAMBI: An R package for Fitting Bivariate Angular Mixture Models. *Journal of Statistical Software*, *99*(11), 1–69. [Link](https://doi.org/10.18637/jss.v099.i11).
-* **Chakraborty, S.**, and Markatou, M. (2022+). Likelihood Ratio Test Based Drug Safety Assessment using R package pvLRT. Accepted for Publication in the *R Journal.* 
+* **Chakraborty, S.**, and Markatou, M. (2023+). Likelihood Ratio Test Based Drug Safety Assessment using R package pvLRT. Accepted for Publication in the *R Journal.* 
 
 ### Collaborative Applied Research
 
@@ -71,8 +73,6 @@ author_profile: true
 
 ## Submitted or in-revision
 
-* Mukherjee S, Khare K, and **Chakraborty S**. (2022+). Convergence properties of data augmentation algorithms for high-dimensional robit regression. *In revision.* 
 * **Chakraborty, S.** and Su, Z. (2022+). A comprehensive Bayesian framework for envelope models. *In revision*.
 * **Chakraborty, S.,** Guan, Z., Shen, R., and Begg, C.B. (2022+). ''Topical Hidden
   Genome': a Bayesian Multilevel Context and Topic Model for Genome-driven Cancer-type Characterization Problems.
-* Shen Y, Park Y, **Chakraborty S**, Zhang C. (2022+) Bayesian simultaneous partial envelope model with application to an imaging genetics analysis. *Submitted.*
