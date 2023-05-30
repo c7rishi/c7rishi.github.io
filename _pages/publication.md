@@ -46,6 +46,8 @@ author_profile: true
 
 ### Collaborative Applied Research
 
+* Huang, C; Cheng, Y; Zheng, W; Bing, R; Zhang, H; Komornichi, I; Harris, L; Arany, P; **Chakraborty, S**; Zhou, Q; Xu, W; Xia, J. (2023). Dual-Scan Photoacoustic Tomography for the Imaging of Vascular Structure on Foot. *To appear in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control.*
+
 * Batra, A, Barnard, A, Lott, D J, Willcocks, R, Forbes, S C, **Chakraborty, S**, Daniels, M, Arbogast, J, Triplett, W, Henricson, E, Dayan, J G, Schmalfuss, C, Sweeney, L, Byrne, B J, McDonald, C, Vandenborne, K, Walter, G A. Longitudinal changes in cardiac function in Duchenne muscular dystrophy population as measured by magnetic resonance imaging (2022). *To appear in BMC Cardiovascular Disorders*.
 
 * Atanasova, K, **Chakraborty, S** (co-first author), Ratnayake, R, Khare, K, Luesch, H. (2022). An epigenetic small molecule screen to target abnormal nuclear morphology in human cells. *To appear in Molecular Biology of the Cell*.
