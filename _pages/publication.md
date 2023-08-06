@@ -29,7 +29,7 @@ author_profile: true
 
 ## Multivariate Analysis and Dimension Reduction
 
-- **Chakraborty, S.** and Su, Z. (2023). A comprehensive Bayesian framework for envelope models. To appear in the *Journal of the American Statistical Association Theory and Methods.*
+- **Chakraborty, S.** and Su, Z. (2023). A comprehensive Bayesian framework for envelope models. To appear in the *Journal of the American Statistical Association (Theory & Methods).*
 - Shen Y, Park Y, **Chakraborty S**, Zhang C. (2023). Bayesian simultaneous partial envelope model with application to an imaging genetics analysis. *The New England Journal of Statistics in Data Science*. [Link.](https://doi.org/10.51387/23-NEJSDS23)
 - Lee, M., **Chakraborty, S.**, and Su, Z. (2022). A Bayesian approach to envelope quantile regression. *Statistica Sinica.* 32 (2022), 1-19 [Link.](http://www3.stat.sinica.edu.tw/LatestART/SS-2020-0109_fp.pdf)
 
