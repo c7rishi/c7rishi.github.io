@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-# Refereed Publications
+# Publications
 
 ### 
 
@@ -29,8 +29,6 @@ author_profile: true
 
 * **Chakraborty, S.**, Liu, A., Ball, R., and Markatou, M. (2022). On the Use of the Likelihood Ratio Test Methodology in Pharmacovigilance. *Statistics in Medicine.* Online ahead of print. [Link.](https://doi.org/10.1002/sim.9575)
 
-
-
 ## Statistical Theory for Modern Computation-Heavy Inferential Methods
 
 ### Multivariate Analysis and Dimension Reduction
@@ -42,7 +40,7 @@ author_profile: true
 ### Statistical Methods for Constrained Space Data and Robust Inference
 
 - **Chakraborty, S.** and Wong, S. W. (2022). On the circular correlation coefficients for bivariate von Mises distributions on a torus. *Stat Papers.* [Link.](https://link.springer.com/article/10.1007/s00362-022-01333-9) [arXiv.](https://arxiv.org/abs/1804.08553)
-- Maji, A., **Chakraborty, S.**, and Basu, A., (2017). Statistical Inference based on the Logarithmic Power Divergence. *Society For Application Of Statistics And Allied Sciences*, 2, 39–51. [Link](http://www.sasaa.org/complete_journal/vol2__6.pdf)
+- Maji, A., **Chakraborty, S.**, and Basu, A., (2017). Statistical Inference based on the Logarithmic Power Divergence. *Society For Application Of Statistics And Allied Sciences,* 2, 39–51. [Link](http://www.sasaa.org/complete_journal/vol2__6.pdf)
 
 ### Markov Chain Monte Carlo Theory
 
@@ -50,8 +48,6 @@ author_profile: true
 * **Chakraborty, S.**, Bhattacharya, B., and Khare, K. (2022). Estimating accuracy of the MCMC variance estimator: asymptotic normality for batch means estimators. *Statistics and Probability Letters.*  *183*, 109337. [arXiv.](https://arxiv.org/abs/1911.00915) [Link](https://www.sciencedirect.com/science/article/abs/pii/S0167715221002868).
 * **Chakraborty, S.** and Khare, K. (2019).  Consistent estimation of the spectrum of trace class data augmentation algorithms. *Bernoulli.* 25(4B), 2019, 3832–3863. [arXiv.](https://arxiv.org/abs/1711.00572) [Link](https://projecteuclid.org/euclid.bj/1569398786).
 * **Chakraborty, S.** and Khare, K. (2017). Convergence properties of Gibbs samplers for Bayesian probit regression with proper priors, *Electronic Journal of Statistics* 11, 177-210. [Link](https://projecteuclid.org/euclid.ejs/1485939612).
-
-
 
 ## Statistical Computing and Software Development
 
@@ -66,8 +62,6 @@ author_profile: true
 - [variantprobs](https://github.com/c7rishi/variantprobs): An R package for estimating probabilities and expected numbers of mutations in the tumor genome.
 - [hidgenclassifier](https://github.com/c7rishi/hidgenclassifier): An R package implementing Key functions for Bayesian hidden genome classifiers. Includes functions for preprocessing genomic data, fitting and predicting from hidden genome classifiers.
 - [pvLRT](https://github.com/c7rishi/pvLRT): An R package for likelihood ratio test based methods for pharmacovigilance.
-
-
 
 # Collaborative Applied Research
 
@@ -91,10 +85,12 @@ author_profile: true
 
 * Vaziri, S., Wilson, J., Abbatematteo, J., Kubilis, P., **Chakraborty, S.**, Kshitij, K., and Hoh, D. J. (2017). Predictive performance of the American College of Surgeons universal risk calculator in neurosurgical patients. *Journal of Neurosurgery*, 1-6. [Link](https://www.ncbi.nlm.nih.gov/pubmed/28452615).
 
+## Book Chapter
 
+* **Chakraborty, S.** Genome-driven cancer site characterization: an overview of the hidden genome model. (2023). To appear in Biomarkers and Biostatistical Methods. 
 
-## Submitted or  In-Revision
+## Submitted or In-Revision Articles
 
-* **Chakraborty, S.,** Guan, Z., Shen, R., and Begg, C.B. (2022+). ''Topical Hidden
-  Genome': a Bayesian Multilevel Context and Topic Model for Genome-driven Cancer-type Characterization Problems.
-* 
+* **Chakraborty, S.,** Guan, Z., Shen, R., and Begg, C.B. (2023+). ''Topical Hidden
+  Genome': a Bayesian Multilevel Context and Topic Model for Genome-driven Cancer-type Characterization Problems. [arXiv.](https://arxiv.org/abs/2212.14567)
+* **Chakraborty, S.**, Guan, Z., Kostrezawa, C.E., Shen R., and Begg C.B. (2023+). Identifying Somatic Fingerprints of Cancers Defined by Germline and Environmental Risk Factors. 
