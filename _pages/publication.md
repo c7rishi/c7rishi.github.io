@@ -11,7 +11,11 @@ author_profile: true
 
 {% include base_path %}
 
-## Refereed Publications
+# Refereed Publications
+
+### 
+
+## Statistical Methodology for Complex, Large-Scale Biomedical Data
 
 ### Statistics in Genomics and Computational Biology
 
@@ -25,6 +29,21 @@ author_profile: true
 
 * **Chakraborty, S.**, Liu, A., Ball, R., and Markatou, M. (2022). On the Use of the Likelihood Ratio Test Methodology in Pharmacovigilance. *Statistics in Medicine.* Online ahead of print. [Link.](https://doi.org/10.1002/sim.9575)
 
+
+
+## Statistical Theory for Modern Computation-Heavy Inferential Methods
+
+### Multivariate Analysis and Dimension Reduction
+
+- **Chakraborty, S.** and Su, Z. (2023). A comprehensive Bayesian framework for envelope models. To appear in the *Journal of the American Statistical Association Theory and Methods.*
+- Shen Y, Park Y, **Chakraborty S**, Zhang C. (2023). Bayesian simultaneous partial envelope model with application to an imaging genetics analysis. *The New England Journal of Statistics in Data Science*. [Link.](https://doi.org/10.51387/23-NEJSDS23)
+- Lee, M., **Chakraborty, S.**, and Su, Z. (2022). A Bayesian approach to envelope quantile regression. *Statistica Sinica.* 32 (2022), 1-19 [Link.](http://www3.stat.sinica.edu.tw/LatestART/SS-2020-0109_fp.pdf)
+
+### Statistical Methods for Constrained Space Data and Robust Inference
+
+- **Chakraborty, S.** and Wong, S. W. (2022). On the circular correlation coefficients for bivariate von Mises distributions on a torus. *Stat Papers.* [Link.](https://link.springer.com/article/10.1007/s00362-022-01333-9) [arXiv.](https://arxiv.org/abs/1804.08553)
+- Maji, A., **Chakraborty, S.**, and Basu, A., (2017). Statistical Inference based on the Logarithmic Power Divergence. *Society For Application Of Statistics And Allied Sciences*, 2, 39–51. [Link](http://www.sasaa.org/complete_journal/vol2__6.pdf)
+
 ### Markov Chain Monte Carlo Theory
 
 * Mukherjee S, Khare K, and **Chakraborty S**. (2023). Convergence properties of data augmentation algorithms for high-dimensional robit regression. **Electronic Journal of Statistics.* 17(1): 19-69 (2023). [Link.](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-17/issue-1/Convergence-properties-of-data-augmentation-algorithms-for-high-dimensional-robit/10.1214/22-EJS2098.full)
@@ -32,19 +51,25 @@ author_profile: true
 * **Chakraborty, S.** and Khare, K. (2019).  Consistent estimation of the spectrum of trace class data augmentation algorithms. *Bernoulli.* 25(4B), 2019, 3832–3863. [arXiv.](https://arxiv.org/abs/1711.00572) [Link](https://projecteuclid.org/euclid.bj/1569398786).
 * **Chakraborty, S.** and Khare, K. (2017). Convergence properties of Gibbs samplers for Bayesian probit regression with proper priors, *Electronic Journal of Statistics* 11, 177-210. [Link](https://projecteuclid.org/euclid.ejs/1485939612).
 
-### Statistical Methods for Multivariate Data and Data on Manifolds and Constrained Spaces
 
-* Shen Y, Park Y, **Chakraborty S**, Zhang C. (2023). Bayesian simultaneous partial envelope model with application to an imaging genetics analysis. *To appear in The New England Journal of Statistics in Data Science*.
-* Lee, M., **Chakraborty, S.**, and Su, Z. (2022). A Bayesian approach to envelope quantile regression. *Statistica Sinica.* 32 (2022), 1-19 [Link.](http://www3.stat.sinica.edu.tw/LatestART/SS-2020-0109_fp.pdf)
-* **Chakraborty, S.** and Wong, S. W. (2022). On the circular correlation coefficients for bivariate von Mises distributions on a torus. *Stat Papers.*  [Link.](https://link.springer.com/article/10.1007/s00362-022-01333-9) [arXiv.](https://arxiv.org/abs/1804.08553)
-* Maji, A., **Chakraborty, S.**, and Basu, A., (2017). Statistical Inference based on the Logarithmic Power Divergence. *Society For Application Of Statistics And Allied Sciences*, 2, 39–51. [Link](http://www.sasaa.org/complete_journal/vol2__6.pdf)
 
-### Computational Research
+## Statistical Computing and Software Development
+
+### Software Articles
 
 * **Chakraborty, S.** and Wong, S. W. (2021). BAMBI: An R package for Fitting Bivariate Angular Mixture Models. *Journal of Statistical Software*, *99*(11), 1–69. [Link](https://doi.org/10.18637/jss.v099.i11).
 * **Chakraborty, S.**, and Markatou, M. (2023+). Likelihood Ratio Test Based Drug Safety Assessment using R package pvLRT. Accepted for Publication in the *R Journal.* 
 
-### Collaborative Applied Research
+### Statistical Software
+
+- [BAMBI](https://cran.r-project.org/web/packages/BAMBI/index.html): An R package for Bivariate Angular Mixture Models. *Downloaded over 40,000 times.*
+- [variantprobs](https://github.com/c7rishi/variantprobs): An R package for estimating probabilities and expected numbers of mutations in the tumor genome.
+- [hidgenclassifier](https://github.com/c7rishi/hidgenclassifier): An R package implementing Key functions for Bayesian hidden genome classifiers. Includes functions for preprocessing genomic data, fitting and predicting from hidden genome classifiers.
+- [pvLRT](https://github.com/c7rishi/pvLRT): An R package for likelihood ratio test based methods for pharmacovigilance.
+
+
+
+# Collaborative Applied Research
 
 * Huang, C; Cheng, Y; Zheng, W; Bing, R; Zhang, H; Komornichi, I; Harris, L; Arany, P; **Chakraborty, S**; Zhou, Q; Xu, W; Xia, J. (2023). Dual-Scan Photoacoustic Tomography for the Imaging of Vascular Structure on Foot. *To appear in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control.*
 
@@ -66,15 +91,10 @@ author_profile: true
 
 * Vaziri, S., Wilson, J., Abbatematteo, J., Kubilis, P., **Chakraborty, S.**, Kshitij, K., and Hoh, D. J. (2017). Predictive performance of the American College of Surgeons universal risk calculator in neurosurgical patients. *Journal of Neurosurgery*, 1-6. [Link](https://www.ncbi.nlm.nih.gov/pubmed/28452615).
 
-## Software
 
-* [BAMBI](https://cran.r-project.org/web/packages/BAMBI/index.html): An R package for Bivariate Angular Mixture Models. *Downloaded over 40,000 times.*
-* [variantprobs](https://github.com/c7rishi/variantprobs): An R package for estimating probabilities and expected numbers of mutations in the tumor genome.
-* [hidgenclassifier](https://github.com/c7rishi/hidgenclassifier): An R package implementing Key functions for Bayesian hidden genome classifiers.  Includes functions for preprocessing genommic data, fitting and predicting from hidden genome classifiers.
-* [pvLRT](https://github.com/c7rishi/pvLRT): An R package for likelihood ratio test based methods for pharmacovigilance. 
 
-## Submitted or in-revision
+## Submitted or  In-Revision
 
-* **Chakraborty, S.** and Su, Z. (2022+). A comprehensive Bayesian framework for envelope models. *In revision*.
 * **Chakraborty, S.,** Guan, Z., Shen, R., and Begg, C.B. (2022+). ''Topical Hidden
   Genome': a Bayesian Multilevel Context and Topic Model for Genome-driven Cancer-type Characterization Problems.
+* 
