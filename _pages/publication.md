@@ -83,7 +83,7 @@ author_profile: true
 
 ## Book Chapter
 
-* **Chakraborty, S.** Genome-driven cancer site characterization: an overview of the hidden genome model. (2023). To appear in Biomarkers and Biostatistical Methods. 
+* **Chakraborty, S.** Genome-driven cancer site characterization: an overview of the hidden genome model. (2023). *To appear in Modern inference based on health-related markers - Biomarkers and Statistical Decision Making.* Elsevier Inc. 
 
 ## Submitted or In-Revision Articles
 
