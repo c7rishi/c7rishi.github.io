@@ -23,14 +23,14 @@ author_profile: true
 
 ### Statistics in Medical Product Safety/Pharmacovigilance
 
-* **Chakraborty, S.**, Liu, A., Ball, R., and Markatou, M. (2022). On the Use of the Likelihood Ratio Test Methodology in Pharmacovigilance. *Statistics in Medicine.* Online ahead of print. [Link.](https://doi.org/10.1002/sim.9575)
+* **Chakraborty, S.**, Liu, A., Ball, R., and Markatou, M. (2022). On the Use of the Likelihood Ratio Test Methodology in Pharmacovigilance. *Statistics in Medicine.* *1*(27), pp.5395-5420. [Link.](https://doi.org/10.1002/sim.9575)
 
 ## Statistical Theory for Computation-Heavy Inferential Methods
 
 ### Multivariate Analysis and Dimension Reduction
 
-- **Chakraborty, S.** and Su, Z. (2023). A comprehensive Bayesian framework for envelope models. To appear in the *Journal of the American Statistical Association (Theory & Methods).*
-- Shen Y, Park Y, **Chakraborty S**, Zhang C. (2023). Bayesian simultaneous partial envelope model with application to an imaging genetics analysis. *The New England Journal of Statistics in Data Science*. [Link.](https://doi.org/10.51387/23-NEJSDS23)
+- **Chakraborty, S.** and Su, Z. (2023). A comprehensive Bayesian framework for envelope models. *Journal of the American Statistical Association (Theory and Methods)*, pp.1-11. [Link.](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2250096)
+- Shen Y, Park Y, **Chakraborty S**, Zhang C. (2023). Bayesian simultaneous partial envelope model with application to an imaging genetics analysis. *The New England Journal of Statistics in Data Science*. 1(2). pp. 237–269. [Link.](https://doi.org/10.51387/23-NEJSDS23)
 - Lee, M., **Chakraborty, S.**, and Su, Z. (2022). A Bayesian approach to envelope quantile regression. *Statistica Sinica.* 32 (2022), 1-19 [Link.](http://www3.stat.sinica.edu.tw/LatestART/SS-2020-0109_fp.pdf)
 
 ### Statistical Methods for Constrained Space Data and Robust Inference
@@ -63,7 +63,7 @@ author_profile: true
 
 * Huang, C; Cheng, Y; Zheng, W; Bing, R; Zhang, H; Komornichi, I; Harris, L; Arany, P; **Chakraborty, S**; Zhou, Q; Xu, W; Xia, J. (2023). Dual-Scan Photoacoustic Tomography for the Imaging of Vascular Structure on Foot. *To appear in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control.*
 
-* Batra, A, Barnard, A, Lott, D J, Willcocks, R, Forbes, S C, **Chakraborty, S**, Daniels, M, Arbogast, J, Triplett, W, Henricson, E, Dayan, J G, Schmalfuss, C, Sweeney, L, Byrne, B J, McDonald, C, Vandenborne, K, Walter, G A. Longitudinal changes in cardiac function in Duchenne muscular dystrophy population as measured by magnetic resonance imaging (2022). *To appear in BMC Cardiovascular Disorders*.
+* Batra, A, Barnard, A, Lott, D J, Willcocks, R, Forbes, S C, **Chakraborty, S**, Daniels, M, Arbogast, J, Triplett, W, Henricson, E, Dayan, J G, Schmalfuss, C, Sweeney, L, Byrne, B J, McDonald, C, Vandenborne, K, Walter, G A. Longitudinal changes in cardiac function in Duchenne muscular dystrophy population as measured by magnetic resonance imaging (2022). *BMC Cardiovascular Disorders*  22(1) pp. 1-12.
 
 * Atanasova, K, **Chakraborty, S** (co-first author), Ratnayake, R, Khare, K, Luesch, H. (2022). An epigenetic small molecule screen to target abnormal nuclear morphology in human cells. *To appear in Molecular Biology of the Cell*.
 
