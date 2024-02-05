@@ -92,3 +92,8 @@ author_profile: true
 * **Chakraborty, S.,** Guan, Z., Shen, R., and Begg, C.B. (2023+). ''Topical Hidden
   Genome': a Bayesian Multilevel Context and Topic Model for Genome-driven Cancer-type Characterization Problems. [arXiv.](https://arxiv.org/abs/2212.14567)
 * **Chakraborty, S.**, Guan, Z., Kostrezawa, C.E., Shen R., and Begg C.B. (2023+). Identifying Somatic Fingerprints of Cancers Defined by Germline and Environmental Risk Factors. 
+* Hua, S.$^*$, **Chakraborty, S.** Inferring cancer-type-specific latent mutation signatures using a Bayesian tree-based supervised topic model. 
+* Huang, X.$^*$, **Chakraborty, S.** A Bayesian framework for medical product safety assessment using correlated spontaneous reporting system data.
+* Tan, Y.$^*$, **Chakraborty, S.**, Markatou, M. On the use of non-parametric empirical Bayesian approaches in Pharmacovigilance.
+
+$^*:$ Ph.D. Advisee
