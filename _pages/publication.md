@@ -61,6 +61,8 @@ author_profile: true
 
 ## Collaborative Applied Research
 
+* Roeder, N M; Penman, S L; Richardson, B J; Wang, J; Freeman-Striegel, L; Khan, A; Pareek, O; Weiss, M; Mohr, P; Eiden, R D; **Chakraborty, S**; Thanos, P K. (2024). Vaporized Δ9-THC in utero results in reduced birthweight, increased locomotion, and altered wake-cycle activity dependent on dose, sex, and diet in the offspring.  *Life Sciences*: 122447. doi: 10.1109/TUFFC.2023.3283139. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0024320524000365?via%3Dihub).  
+
 * Huang, C; Cheng, Y; Zheng, W; Bing, R; Zhang, H; Komornichi, I; Harris, L; Arany, P; **Chakraborty, S**; Zhou, Q; Xu, W; Xia, J. (2023). Dual-Scan Photoacoustic Tomography for the Imaging of Vascular Structure on Foot. *To appear in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control.*
 
 * Batra, A, Barnard, A, Lott, D J, Willcocks, R, Forbes, S C, **Chakraborty, S**, Daniels, M, Arbogast, J, Triplett, W, Henricson, E, Dayan, J G, Schmalfuss, C, Sweeney, L, Byrne, B J, McDonald, C, Vandenborne, K, Walter, G A. Longitudinal changes in cardiac function in Duchenne muscular dystrophy population as measured by magnetic resonance imaging (2022). *BMC Cardiovascular Disorders*  22(1) pp. 1-12.
