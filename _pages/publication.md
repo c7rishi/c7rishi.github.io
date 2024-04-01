@@ -23,10 +23,9 @@ author_profile: true
 - **Chakraborty, S.** and Khare, K. (2019). Consistent estimation of the spectrum of trace class data augmentation algorithms. *Bernoulli.* 25(4B), 2019, 3832–3863. [arXiv.](https://arxiv.org/abs/1711.00572) [Link](https://projecteuclid.org/euclid.bj/1569398786).
 - **Chakraborty, S.** and Khare, K. (2017). Convergence properties of Gibbs samplers for Bayesian probit regression with proper priors, *Electronic Journal of Statistics* 11, 177-210. [Link](https://projecteuclid.org/euclid.ejs/1485939612).
 
-
-
 ## Statistical Methodology in Computational Bio-medicine
 
+* **Chakraborty, S.**, Guan, Z., Shen, R., and Begg, C.B. (2024). 'Topical Hidden Genome': a Bayesian Multilevel Context and Topic Model for Genome-driven Cancer-type Characterization Problems. To appear in *Biometrics*. [arXiv.](https://arxiv.org/abs/2212.14567)
 * **Chakraborty, S.**, Liu, A., Ball, R., and Markatou, M. (2022). On the Use of the Likelihood Ratio Test Methodology in Pharmacovigilance. *Statistics in Medicine.* *1*(27), pp.5395-5420. [Link.](https://doi.org/10.1002/sim.9575)
 * **Chakraborty, S**., Martin, A., Guan, Z., Begg, C. B., and Shen, R. (2021). Mining mutation contexts across the cancer genome to map tumor site of origin. *Nat Commun* **12,** 3051. [Link](https://www.nature.com/articles/s41467-021-23094-z).
 * **Chakraborty, S.**, Ecker, B. L., Seier, K., Aveson, V. G., Balachandran, V. P., Drebin, J. A., D'Angelica, M. I., Kingham, T. P., Sigel, C. S., Soares, K. C., Vakiani, E., Wei, A. C., Chandwani, R., Gonen, M., Shen, R., Jarnagin, W. R. (2021). Genome-derived Classification Signature for Ampullary Adenocarcinoma to Improve Clinical Cancer Care. *Clinical Cancer Research*.  **(27)** (21) 5891-5899. [Link](https://clincancerres.aacrjournals.org/content/early/2021/09/25/1078-0432.CCR-21-1906).
@@ -34,14 +33,10 @@ author_profile: true
 * **Chakraborty, S.**, Begg, C. B., and Shen, R. (2020). Using the “Hidden” Genome to Improve  Classification of Cancer Types. *Biometrics. 2020;1–11.* [Link.](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13367) [arXiv.](https://arxiv.org/abs/2005.10779)
 * **Chakraborty, S.**, Arora A., Begg, C. B. and Shen, R. (2019). Using Somatic Variant Richness to Mine Signals from Rare Variants in the Cancer Genome. *Nat Commun 10*, 5506 (2019). [Link](https://www.nature.com/articles/s41467-019-13402-z).
 
-
-
-## Computational Implementation of Novel Methodology
+## Computational Methodology
 
 - **Chakraborty, S.** and Wong, S. W. (2021). BAMBI: An R package for Fitting Bivariate Angular Mixture Models. *Journal of Statistical Software*, *99*(11), 1–69. [Link](https://doi.org/10.18637/jss.v099.i11).
 - **Chakraborty, S.**, and Markatou, M. (2024). Likelihood Ratio Test Based Drug Safety Assessment using R package pvLRT. Accepted for Publication in the *R Journal.*
-  
-  
 
 ## Statistical Software Development
 
@@ -49,10 +44,10 @@ author_profile: true
 - [variantprobs](https://github.com/c7rishi/variantprobs): An R package for estimating probabilities and expected numbers of mutations in the tumor genome.
 - [hidgenclassifier](https://github.com/c7rishi/hidgenclassifier): An R package implementing Key functions for Bayesian hidden genome classifiers. Includes functions for preprocessing genomic data, fitting and predicting from hidden genome classifiers.
 - [pvLRT](https://github.com/c7rishi/pvLRT): An R package for likelihood ratio test based methods for pharmacovigilance.
-  
-  
 
 ## Collaborative Applied Research
+
+* Rosi-Schumacher, M., DiNardo, L. A., Reese, A. D., Gupta, S., Nagy, R. E., **Chakraborty, S.**, and Carr, M. M. (2024). Comparison of Surgical Techniques for the Treatment of Congenital Nasal Pyriform Aperture Stenosis: A Systematic Review. Annals of Otology, Rhinology & Laryngology, 00034894241242179. [Link](https://journals.sagepub.com/eprint/WX9S5TIUZWZUTVW7GKXN/full).
 
 * Roeder, N M; Penman, S L; Richardson, B J; Wang, J; Freeman-Striegel, L; Khan, A; Pareek, O; Weiss, M; Mohr, P; Eiden, R D; **Chakraborty, S**; Thanos, P K. (2024). Vaporized Δ9-THC in utero results in reduced birthweight, increased locomotion, and altered wake-cycle activity dependent on dose, sex, and diet in the offspring.  *Life Sciences*: 122447. doi: 10.1109/TUFFC.2023.3283139. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0024320524000365?via%3Dihub).  
 
@@ -82,8 +77,6 @@ author_profile: true
 
 ## Submitted or In-Revision Articles
 
-* **Chakraborty, S.,** Guan, Z., Shen, R., and Begg, C.B. (2023+). Topical Hidden
-  Genome: a Bayesian Multilevel Context and Topic Model for Genome-driven Cancer-type Characterization Problems. [arXiv.](https://arxiv.org/abs/2212.14567)
 * **Chakraborty, S.**, Guan, Z., Kostrezawa, C.E., Shen R., and Begg C.B. (2023+). Identifying Somatic Fingerprints of Cancers Defined by Germline and Environmental Risk Factors. 
 * Hua, S.$^*$, **Chakraborty, S.** Inferring cancer-type-specific latent mutation signatures using a Bayesian tree-based supervised topic model. 
 * Huang, X.$^*$, **Chakraborty, S.** A Bayesian framework for medical product safety assessment using correlated spontaneous reporting system data.
