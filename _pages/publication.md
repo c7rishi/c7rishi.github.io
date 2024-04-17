@@ -25,7 +25,8 @@ author_profile: true
 
 ## Statistical Methodology in Computational Bio-medicine
 
-* **Chakraborty, S.**, Guan, Z., Shen, R., and Begg, C.B. (2024). 'Topical Hidden Genome': a Bayesian Multilevel Context and Topic Model for Genome-driven Cancer-type Characterization Problems. To appear in *Biometrics*. [arXiv.](https://arxiv.org/abs/2212.14567)
+* **Chakraborty, S.**, Guan, Z., Kostrezawa, C.E., Shen R., and Begg C.B. (2024). Identifying Somatic Fingerprints of Cancers Defined by Germline and Environmental Risk Factors. To appear in Genetic Epidemiology.
+* **Chakraborty, S.**, Guan, Z., Begg, C.B., and Shen, R. (2024). 'Topical Hidden Genome': a Bayesian Multilevel Context and Topic Model for Genome-driven Cancer-type Characterization Problems. To appear in *Biometrics*. [arXiv.](https://arxiv.org/abs/2212.14567)
 * **Chakraborty, S.**, Liu, A., Ball, R., and Markatou, M. (2022). On the Use of the Likelihood Ratio Test Methodology in Pharmacovigilance. *Statistics in Medicine.* *1*(27), pp.5395-5420. [Link.](https://doi.org/10.1002/sim.9575)
 * **Chakraborty, S**., Martin, A., Guan, Z., Begg, C. B., and Shen, R. (2021). Mining mutation contexts across the cancer genome to map tumor site of origin. *Nat Commun* **12,** 3051. [Link](https://www.nature.com/articles/s41467-021-23094-z).
 * **Chakraborty, S.**, Ecker, B. L., Seier, K., Aveson, V. G., Balachandran, V. P., Drebin, J. A., D'Angelica, M. I., Kingham, T. P., Sigel, C. S., Soares, K. C., Vakiani, E., Wei, A. C., Chandwani, R., Gonen, M., Shen, R., Jarnagin, W. R. (2021). Genome-derived Classification Signature for Ampullary Adenocarcinoma to Improve Clinical Cancer Care. *Clinical Cancer Research*.  **(27)** (21) 5891-5899. [Link](https://clincancerres.aacrjournals.org/content/early/2021/09/25/1078-0432.CCR-21-1906).
@@ -77,7 +78,6 @@ author_profile: true
 
 ## Submitted or In-Revision Articles
 
-* **Chakraborty, S.**, Guan, Z., Kostrezawa, C.E., Shen R., and Begg C.B. (2023+). Identifying Somatic Fingerprints of Cancers Defined by Germline and Environmental Risk Factors. 
 * Hua, S.$^*$, **Chakraborty, S.** Inferring cancer-type-specific latent mutation signatures using a Bayesian tree-based supervised topic model. 
 * Huang, X.$^*$, **Chakraborty, S.** A Bayesian framework for medical product safety assessment using correlated spontaneous reporting system data.
 * Tan, Y.$^*$, **Chakraborty, S.**, Markatou, M. On the use of non-parametric empirical Bayesian approaches in Pharmacovigilance.
