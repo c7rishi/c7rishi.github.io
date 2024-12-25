@@ -79,7 +79,15 @@ author_profile: true
 ## Submitted or In-Revision Articles
 
 * Hua, S.$^*$, **Chakraborty, S.** Inferring cancer-type-specific latent mutation signatures using a Bayesian tree-based supervised topic model. 
+
 * Huang, X.$^*$, **Chakraborty, S.** A Bayesian framework for medical product safety assessment using correlated spontaneous reporting system data.
+
 * Tan, Y.$^*$, **Chakraborty, S.**, Markatou, M. On the use of non-parametric empirical Bayesian approaches in Pharmacovigilance.
+
+* Wang, S., **Chakraborty, S.**, Qin, Q., Bai, R. Neural-g: A Deep Learning Framework for Mixing Density Estimation.
+
+*  **Chakraborty, S.**, Khare, K, Michailidis, G. A generalized Bayesian approach for high-dimensional robust regression with serially correlated errors and predictors. 
+
+* Liu, A., Markatou, M., **Chakraborty, S.**, and Ball, R. A pattern discovery algorithm for pharmacovigilance signal detection. 
 
 $^*:$ Ph.D. Advisee
