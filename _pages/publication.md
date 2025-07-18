@@ -116,10 +116,6 @@ author_profile: true
    $^*$: Ph.D. Advisee
    
    †: Senior authorship
-   
-   
-   
-   
 
 ## Statistical Software Development
 
