@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Please find my latest CV [here](CV-Saptarshi-Chakraborty-Summer-2025.pdf).
+Please find my latest CV [here](cv2025summer.pdf).
